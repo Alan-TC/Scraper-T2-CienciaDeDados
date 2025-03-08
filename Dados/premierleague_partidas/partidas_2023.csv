@@ -1,0 +1,343 @@
+capacidade_estadio,publico_estadio,time_casa,gols_casa,posse_casa,tentativas_casa,chutes_fora_casa,defesa_casa,escanteios_casa,cobrancas_falta_casa,faltas_cometidas_casa,impedimentos_casa,time_fora,gols_fora,posse_fora,tentativas_fora,chutes_fora_fora,defesa_fora,escanteios_fora,cobrancas_falta_fora,faltas_cometidas_fora,impedimentos_fora,ano,fase
+26.047,25.286,Crystal Palace FC,0,56,10,2,1,3,9,16,1,FC Arsenal,2,44,10,4,2,5,16,11,2,2023,1.Rodada
+22.384,22.207,FC Fulham,2,33,9,2,1,4,8,7,4,FC Liverpool,2,67,11,5,1,4,7,9,4,2023,1.Rodada
+32.273,31.794,Leicester City FC,2,55,14,6,1,5,5,6,2,Brentford FC,2,45,8,4,3,6,6,5,2,2023,1.Rodada
+74.879,73.711,Manchester United FC,1,63,17,5,2,6,12,7,3,Brighton & Hove Albion,2,37,15,6,5,2,7,12,1,2023,1.Rodada
+,62.443,West Ham United,0,24,6,2,0,1,4,8,4,Manchester City FC,2,76,14,8,1,4,8,4,1,2023,1.Rodada
+42.682,41.883,Aston Villa FC,2,58,12,4,4,5,7,9,2,FC Everton,1,42,15,2,1,8,8,7,3,2023,2.Rodada
+32.050,31.178,Wolverhampton Wanderers,0,59,7,5,3,5,14,7,1,FC Fulham,0,41,9,5,1,3,7,14,0,2023,2.Rodada
+32.384,30.815,FC Southampton,2,42,14,7,3,2,11,10,1,Leeds United FC,2,58,13,4,2,5,9,12,1,2023,2.Rodada
+55.017,53.453,Manchester City FC,4,67,19,6,1,11,8,9,2,AFC Bournemouth,0,33,3,1,4,1,9,8,1,2023,2.Rodada
+31.800,31.552,Brighton & Hove Albion,0,55,13,3,1,7,4,8,1,Newcastle United,0,45,4,2,5,3,7,6,4,2023,2.Rodada
+60.704,60.033,FC Arsenal,4,50,19,8,1,6,9,15,2,Leicester City FC,2,50,6,3,4,2,15,9,3,2023,2.Rodada
+,17.250 esgotado,Brentford FC,4,33,13,3,4,8,14,6,1,Manchester United FC,0,67,15,7,3,2,6,15,2,2023,2.Rodada
+30.445,29.281,Nottingham Forest,1,43,13,4,4,6,10,10,3,West Ham United,0,57,19,8,5,7,9,11,2,2023,2.Rodada
+40.853,39.946,Chelsea FC,2,64,16,6,3,8,9,9,2,Tottenham Hotspur,2,36,10,2,1,5,8,9,1,2023,2.Rodada
+54.074,52.970,FC Liverpool,1,73,24,10,2,4,7,7,3,Crystal Palace FC,1,27,7,4,3,2,7,8,2,2023,2.Rodada
+62.062,61.298,Tottenham Hotspur,1,50,11,5,3,8,8,10,2,Wolverhampton Wanderers,0,50,20,8,3,6,10,8,0,2023,3.Rodada
+26.047,22.012,Crystal Palace FC,3,51,17,5,4,4,13,16,1,Aston Villa FC,1,49,13,6,6,2,16,14,1,2023,3.Rodada
+22.384,21.798,FC Fulham,3,44,18,4,3,6,7,13,5,Brentford FC,2,56,13,4,6,3,12,7,7,2023,3.Rodada
+32.273,30.850,Leicester City FC,1,62,6,3,1,2,14,11,0,FC Southampton,2,38,9,5,0,5,11,15,1,2023,3.Rodada
+11.329,10.423,AFC Bournemouth,0,41,6,5,3,3,10,12,1,FC Arsenal,3,59,14,4,1,4,12,10,3,2023,3.Rodada
+37.890,36.372,Leeds United FC,3,40,12,4,3,4,15,16,1,Chelsea FC,0,60,14,4,3,6,16,15,7,2023,3.Rodada
+,62.449,West Ham United,0,49,13,3,0,5,6,10,3,Brighton & Hove Albion,2,51,11,5,3,4,10,7,1,2023,3.Rodada
+52.338,52.258,Newcastle United,3,31,12,4,7,5,7,14,2,Manchester City FC,3,69,21,4,2,5,14,7,1,2023,3.Rodada
+,76.000,Manchester United FC,2,30,12,4,5,6,7,11,2,FC Liverpool,1,70,17,7,2,8,10,7,2,2023,3.Rodada
+32.384,31.196,FC Southampton,0,48,17,10,3,5,14,4,1,Manchester United FC,1,52,11,2,4,3,3,14,1,2023,4.Rodada
+17.250,17.009,Brentford FC,1,58,19,9,6,8,7,8,0,FC Everton,1,42,14,2,4,5,8,8,2,2023,4.Rodada
+31.800,30.953,Brighton & Hove Albion,1,43,13,8,2,5,13,10,2,Leeds United FC,0,57,10,3,3,3,10,14,1,2023,4.Rodada
+40.853,39.953,Chelsea FC,2,45,7,2,4,3,7,10,3,Leicester City FC,1,55,17,7,1,11,9,7,1,2023,4.Rodada
+54.074,53.328,FC Liverpool,9,71,19,6,2,8,5,6,3,AFC Bournemouth,0,29,5,2,4,1,6,5,0,2023,4.Rodada
+55.017,53.112,Manchester City FC,4,75,18,9,1,6,7,14,2,Crystal Palace FC,2,25,2,0,1,1,14,8,1,2023,4.Rodada
+42.682,41.796,Aston Villa FC,0,58,9,4,1,3,10,10,2,West Ham United,1,42,7,3,3,2,10,10,1,2023,4.Rodada
+32.050,31.311,Wolverhampton Wanderers,1,36,10,2,5,4,11,10,3,Newcastle United,1,64,21,4,3,13,10,11,1,2023,4.Rodada
+30.445,29.296,Nottingham Forest,0,55,17,9,4,6,11,11,1,Tottenham Hotspur,2,45,18,7,1,1,9,13,3,2023,4.Rodada
+22.384,22.224,FC Fulham,2,40,10,7,2,3,11,9,0,Brighton & Hove Albion,1,60,7,3,2,3,9,11,2,2023,5.Rodada
+26.047,25.043,Crystal Palace FC,1,49,13,6,2,4,8,11,1,Brentford FC,1,51,9,5,3,6,11,8,0,2023,5.Rodada
+32.384,31.072,FC Southampton,2,32,9,0,3,5,9,15,0,Chelsea FC,1,68,10,2,3,3,15,10,3,2023,5.Rodada
+37.890,36.338,Leeds United FC,1,70,14,8,1,10,9,10,2,FC Everton,1,30,7,2,4,2,7,9,2,2023,5.Rodada
+11.329,10.113,AFC Bournemouth,0,34,5,2,3,2,12,12,0,Wolverhampton Wanderers,0,66,17,9,2,5,10,12,3,2023,5.Rodada
+60.704,60.012,FC Arsenal,2,60,22,6,2,10,14,10,1,Aston Villa FC,1,40,4,1,6,3,10,14,1,2023,5.Rodada
+55.017,53.409,Manchester City FC,6,75,17,6,1,10,5,9,2,Nottingham Forest,0,25,8,4,3,1,9,7,2,2023,5.Rodada
+,62.450,West Ham United,1,38,14,8,4,3,9,10,1,Tottenham Hotspur,1,62,12,2,3,4,8,9,0,2023,5.Rodada
+54.074,53.316,FC Liverpool,2,72,23,8,1,13,10,9,2,Newcastle United,1,28,5,3,4,0,8,10,2,2023,5.Rodada
+32.273,32.226,Leicester City FC,0,54,10,5,1,1,15,7,0,Manchester United FC,1,46,9,5,2,3,7,15,2,2023,5.Rodada
+39.571,39.240,FC Everton,0,39,14,6,8,7,9,7,3,FC Liverpool,0,61,22,8,4,9,7,11,2,2023,6.Rodada
+17.250,16.946,Brentford FC,5,32,14,5,4,2,9,8,1,Leeds United FC,2,68,16,7,3,6,8,9,1,2023,6.Rodada
+52.338,51.863,Newcastle United,0,52,23,7,9,13,12,19,2,Crystal Palace FC,0,48,19,4,5,5,18,12,1,2023,6.Rodada
+62.062,61.641,Tottenham Hotspur,2,52,23,7,2,10,6,9,3,FC Fulham,1,48,9,5,8,3,9,6,0,2023,6.Rodada
+32.050,30.546,Wolverhampton Wanderers,1,51,7,4,1,5,13,10,1,FC Southampton,0,49,12,7,1,6,10,14,0,2023,6.Rodada
+42.682,41.830,Aston Villa FC,1,27,3,1,3,1,6,7,5,Manchester City FC,1,73,13,5,0,4,7,6,3,2023,6.Rodada
+,31.185,Brighton & Hove Albion,5,54,23,5,2,10,8,6,2,Leicester City FC,2,46,6,1,7,1,6,8,3,2023,6.Rodada
+74.879,74.310,Manchester United FC,3,39,10,3,2,2,8,13,4,FC Arsenal,1,61,16,8,3,5,13,9,0,2023,6.Rodada
+,24.460,FC Fulham,2,48,8,3,9,5,16,12,3,Chelsea FC,1,52,20,3,1,7,12,16,3,2023,7.Rodada
+26.047,25.243,Crystal Palace FC,1,39,10,3,3,3,10,9,0,Manchester United FC,1,61,15,8,4,3,8,10,0,2023,7.Rodada
+55.017,53.088,Manchester City FC,4,58,16,5,1,8,13,10,0,Tottenham Hotspur,2,42,9,4,2,3,9,14,1,2023,7.Rodada
+60.704,60.213,FC Arsenal,4,73,15,5,5,5,12,5,4,FC Everton,0,27,8,2,1,1,5,12,2,2023,7.Rodada
+54.074,53.259,FC Liverpool,2,57,15,6,1,5,13,13,1,Wolverhampton Wanderers,0,43,4,2,4,2,13,14,3,2023,7.Rodada
+32.384,30.438,FC Southampton,0,66,7,3,2,3,8,14,1,Brentford FC,2,34,11,2,0,3,14,10,1,2023,7.Rodada
+11.329,10.266,AFC Bournemouth,0,37,14,6,4,5,4,11,1,Brighton & Hove Albion,2,63,16,9,3,5,10,5,0,2023,7.Rodada
+37.890,36.740,Leeds United FC,2,63,21,6,0,11,12,11,3,Nottingham Forest,1,37,13,4,4,4,11,13,3,2023,7.Rodada
+32.273,32.087,Leicester City FC,1,36,9,4,3,4,14,10,2,Aston Villa FC,2,64,15,5,3,8,10,14,1,2023,7.Rodada
+62.500,62.470,West Ham United,1,42,7,3,2,7,12,11,0,Newcastle United,5,58,15,5,1,6,11,12,0,2023,7.Rodada
+42.682,40.758,Aston Villa FC,1,53,11,3,1,6,12,13,1,FC Southampton,0,47,7,3,2,3,13,13,0,2023,8.Rodada
+30.445,28.654,Nottingham Forest,2,40,11,5,3,2,10,11,2,FC Fulham,3,60,14,3,1,10,10,10,2,2023,8.Rodada
+32.050,31.578,Wolverhampton Wanderers,0,41,6,4,4,5,9,7,0,Manchester City FC,3,59,16,5,1,7,6,9,1,2023,8.Rodada
+52.338,52.238,Newcastle United,1,73,20,8,2,8,10,10,3,AFC Bournemouth,1,27,10,5,6,1,10,11,1,2023,8.Rodada
+62.062,61.450,Tottenham Hotspur,6,44,16,2,5,6,8,9,1,Leicester City FC,2,56,19,7,5,1,8,9,0,2023,8.Rodada
+17.250,17.122,Brentford FC,0,36,5,3,4,3,9,10,3,FC Arsenal,3,64,13,4,2,3,10,10,1,2023,8.Rodada
+39.571,39.298,FC Everton,1,53,7,4,4,5,10,8,1,West Ham United,0,47,14,3,1,14,8,11,1,2023,8.Rodada
+74.879,73.456,Manchester United FC,2,66,24,9,1,6,11,7,1,Leeds United FC,2,34,8,4,5,5,7,11,0,2023,8.Rodada
+31.800,30.933,Brighton & Hove Albion,1,57,11,5,3,1,19,13,2,Crystal Palace FC,0,43,11,6,4,4,13,20,0,2023,8.Rodada
+40.853,40.093,Chelsea FC,0,50,12,7,3,3,17,6,4,FC Liverpool,0,50,7,0,2,5,2,17,3,2023,8.Rodada
+,62.437,West Ham United,2,39,18,5,4,1,5,8,2,Wolverhampton Wanderers,0,61,15,7,3,6,7,6,1,2023,9.Rodada
+55.017,53.475,Manchester City FC,6,54,22,6,5,5,9,3,1,Manchester United FC,3,46,12,1,3,1,2,9,0,2023,9.Rodada
+37.890,36.582,Leeds United FC,0,44,6,2,6,2,12,23,0,Aston Villa FC,0,56,19,8,1,9,23,12,2,2023,9.Rodada
+32.273,32.202,Leicester City FC,4,52,17,7,3,6,11,13,3,Nottingham Forest,0,48,10,5,4,6,11,12,4,2023,9.Rodada
+11.329,10.272,AFC Bournemouth,2,44,10,2,4,7,16,8,3,Leicester City FC,1,56,9,2,2,2,7,16,0,2023,10.Rodada
+40.853,39.940,Chelsea FC,3,57,20,10,2,4,7,8,3,Wolverhampton Wanderers,0,43,8,5,4,2,8,8,0,2023,10.Rodada
+55.017,53.365,Manchester City FC,4,66,21,9,0,9,8,4,1,FC Southampton,0,34,5,3,4,1,3,8,1,2023,10.Rodada
+52.338,52.067,Newcastle United,5,54,16,4,2,9,8,14,1,Brentford FC,1,46,6,1,2,5,13,9,3,2023,10.Rodada
+31.800,31.498,Brighton & Hove Albion,0,59,14,5,2,6,13,9,2,Tottenham Hotspur,1,41,8,4,4,2,8,14,2,2023,10.Rodada
+26.047,25.042,Crystal Palace FC,2,55,13,5,3,5,23,13,2,Leeds United FC,1,45,10,2,3,3,13,23,2,2023,10.Rodada
+,62.454,West Ham United,3,51,17,4,1,4,7,9,1,FC Fulham,1,49,8,4,5,2,9,7,2,2023,10.Rodada
+60.704,60.059,FC Arsenal,3,44,11,1,2,4,9,11,3,FC Liverpool,2,56,8,2,4,3,10,11,6,2023,10.Rodada
+39.571,39.258,FC Everton,1,39,11,3,2,5,11,7,1,Manchester United FC,2,61,12,5,1,4,7,13,4,2023,10.Rodada
+30.445,29.208,Nottingham Forest,1,39,6,1,1,1,19,13,0,Aston Villa FC,1,61,12,2,2,4,12,19,3,2023,10.Rodada
+17.250,17.016,Brentford FC,2,28,7,4,7,2,15,12,0,Brighton & Hove Albion,0,72,21,4,0,11,11,15,3,2023,11.Rodada
+32.273,31.298,Leicester City FC,0,53,14,5,1,9,12,18,2,Crystal Palace FC,0,47,8,5,6,2,16,13,1,2023,11.Rodada
+,22.913,FC Fulham,2,69,19,8,4,5,11,9,1,AFC Bournemouth,2,31,10,4,2,6,9,11,0,2023,11.Rodada
+32.050,31.554,Wolverhampton Wanderers,1,58,9,5,2,4,11,17,2,Nottingham Forest,0,42,10,6,1,5,16,13,1,2023,11.Rodada
+62.062,61.812,Tottenham Hotspur,2,62,21,6,0,7,13,12,0,FC Everton,0,38,4,3,5,1,12,13,0,2023,11.Rodada
+42.682,41.754,Aston Villa FC,0,41,18,7,2,7,11,12,3,Chelsea FC,2,59,8,3,7,1,12,11,1,2023,11.Rodada
+37.890,36.700,Leeds United FC,0,47,16,5,3,6,9,10,4,FC Arsenal,1,53,9,2,4,3,10,11,0,2023,11.Rodada
+74.879,73.726,Manchester United FC,0,63,15,8,2,4,11,13,2,Newcastle United,0,37,9,5,2,4,12,11,0,2023,11.Rodada
+32.384,29.159,FC Southampton,1,39,10,1,3,4,3,7,1,West Ham United,1,61,25,9,7,14,7,3,0,2023,11.Rodada
+54.074,53.286,FC Liverpool,1,37,13,8,6,5,6,10,3,Manchester City FC,0,63,16,4,1,6,8,7,0,2023,11.Rodada
+31.800,31.463,Brighton & Hove Albion,0,70,19,7,0,9,13,10,1,Nottingham Forest,0,30,3,3,7,1,10,14,0,2023,12.Rodada
+26.047,25.125,Crystal Palace FC,2,51,14,5,3,4,18,14,0,Wolverhampton Wanderers,1,49,10,5,2,2,13,18,4,2023,12.Rodada
+11.329,10.405,AFC Bournemouth,0,53,15,8,2,7,12,8,2,FC Southampton,1,47,9,2,3,3,8,13,0,2023,12.Rodada
+17.250,17.118,Brentford FC,0,33,8,2,5,6,6,7,2,Chelsea FC,0,67,14,3,5,2,7,7,0,2023,12.Rodada
+52.338,52.247,Newcastle United,1,50,16,9,0,8,11,9,0,FC Everton,0,50,1,1,3,2,9,12,3,2023,12.Rodada
+54.074,53.346,FC Liverpool,1,54,22,8,3,8,7,9,1,West Ham United,0,46,8,4,6,3,9,8,0,2023,12.Rodada
+74.879,73.677,Manchester United FC,2,52,28,9,2,8,7,7,4,Tottenham Hotspur,0,48,9,5,8,3,7,7,0,2023,12.Rodada
+,23.508,FC Fulham,3,61,18,5,6,9,10,11,0,Aston Villa FC,0,39,12,3,5,7,10,11,3,2023,12.Rodada
+32.273,30.814,Leicester City FC,2,47,5,1,2,2,11,15,4,Leeds United FC,0,53,14,8,0,9,14,11,2,2023,12.Rodada
+60.704,60.276,FC Arsenal,1,64,10,4,2,1,13,11,0,Manchester City FC,3,36,9,1,0,2,10,15,3,2023,12.Rodada
+30.445,29.245,Nottingham Forest,1,25,10,1,7,2,8,14,3,FC Liverpool,0,75,15,7,6,11,13,8,0,2023,13.Rodada
+39.571,38.939,FC Everton,3,47,9,1,2,3,13,16,1,Crystal Palace FC,0,53,9,4,3,4,16,14,2,2023,13.Rodada
+55.017,53.223,Manchester City FC,3,48,10,3,1,6,12,11,0,Brighton & Hove Albion,1,52,8,3,1,3,11,12,4,2023,13.Rodada
+40.853,39.503,Chelsea FC,1,47,6,3,5,6,10,8,2,Manchester United FC,1,53,13,6,1,4,8,10,3,2023,13.Rodada
+42.682,41.693,Aston Villa FC,4,45,19,3,3,7,9,14,0,Brentford FC,0,55,12,5,7,6,14,11,1,2023,13.Rodada
+37.890,36.447,Leeds United FC,2,57,14,4,1,3,7,12,4,FC Fulham,3,43,11,3,3,6,12,8,4,2023,13.Rodada
+32.384,31.145,FC Southampton,1,40,10,3,2,9,6,11,4,FC Arsenal,1,60,12,4,2,4,10,8,3,2023,13.Rodada
+32.050,29.811,Wolverhampton Wanderers,0,61,21,7,0,9,11,10,3,Leicester City FC,4,39,5,1,5,2,10,13,3,2023,13.Rodada
+62.062,61.726,Tottenham Hotspur,1,52,17,4,3,6,6,12,3,Newcastle United,2,48,13,3,3,7,12,6,4,2023,13.Rodada
+,62.447,West Ham United,2,54,20,8,3,5,10,9,1,AFC Bournemouth,0,46,5,2,2,0,9,11,0,2023,13.Rodada
+32.273,32.223,Leicester City FC,0,35,10,4,4,3,10,5,0,Manchester City FC,1,65,16,7,5,10,5,10,2,2023,14.Rodada
+,23.534,FC Fulham,0,57,24,10,4,13,8,10,0,FC Everton,0,43,9,3,6,4,10,8,5,2023,14.Rodada
+54.074,53.274,FC Liverpool,1,69,22,8,4,14,3,9,0,Leeds United FC,2,31,14,6,9,4,8,3,0,2023,14.Rodada
+60.704,60.263,FC Arsenal,5,69,24,5,2,9,7,9,1,Nottingham Forest,0,31,5,2,4,4,9,8,2,2023,14.Rodada
+74.879,73.682,Manchester United FC,1,53,16,7,4,5,10,12,1,West Ham United,0,47,13,2,2,10,12,10,2,2023,14.Rodada
+37.890,36.304,Leeds United FC,4,61,18,6,2,13,9,16,0,AFC Bournemouth,3,39,9,2,0,3,15,10,0,2023,15.Rodada
+30.445,28.869,Nottingham Forest,2,47,15,6,0,3,10,10,0,Brentford FC,2,53,6,3,5,3,10,11,2,2023,15.Rodada
+32.050,30.732,Wolverhampton Wanderers,2,29,8,1,5,4,9,15,1,Brighton & Hove Albion,3,71,19,7,3,9,15,11,1,2023,15.Rodada
+39.571,39.206,FC Everton,0,49,12,5,6,8,5,9,0,Leicester City FC,2,51,22,7,2,3,8,5,1,2023,15.Rodada
+40.853,40.142,Chelsea FC,0,44,5,1,1,4,13,19,3,FC Arsenal,1,56,14,9,1,6,18,13,0,2023,15.Rodada
+42.682,42.058,Aston Villa FC,3,42,6,2,3,3,12,6,0,Manchester United FC,1,58,8,2,1,5,3,12,3,2023,15.Rodada
+32.384,30.402,FC Southampton,1,56,16,6,0,8,9,7,4,Newcastle United,4,44,7,2,4,2,7,10,1,2023,15.Rodada
+,62.451,West Ham United,1,42,5,3,5,2,5,10,4,Crystal Palace FC,2,58,15,2,1,5,10,7,0,2023,15.Rodada
+62.062,62.008,Tottenham Hotspur,1,47,14,6,4,5,7,10,1,FC Liverpool,2,53,13,3,4,3,10,8,2,2023,15.Rodada
+55.017,52.786,Manchester City FC,1,75,29,9,5,10,6,9,2,Brentford FC,2,25,10,1,5,2,8,7,2,2023,16.Rodada
+11.329,10.382,AFC Bournemouth,3,36,16,4,3,3,8,12,1,FC Everton,0,64,15,6,5,5,12,8,1,2023,16.Rodada
+,62.459,West Ham United,0,54,18,9,4,7,8,9,2,Leicester City FC,2,46,9,2,6,2,9,8,0,2023,16.Rodada
+52.338,52.264,Newcastle United,1,49,10,3,2,5,10,14,3,Chelsea FC,0,51,5,2,2,3,13,11,0,2023,16.Rodada
+,34.624,Wolverhampton Wanderers,0,37,11,6,1,6,6,5,3,FC Arsenal,2,63,14,7,2,4,5,6,1,2023,16.Rodada
+31.800,31.581,Brighton & Hove Albion,1,65,7,1,0,11,11,14,3,Aston Villa FC,2,35,8,3,1,4,14,11,1,2023,16.Rodada
+,24.246,FC Fulham,1,53,14,5,8,10,9,9,1,Manchester United FC,2,47,14,3,6,3,8,10,2,2023,16.Rodada
+17.250,17.137,Brentford FC,2,39,9,3,6,6,10,11,1,Tottenham Hotspur,2,61,15,2,3,5,10,10,5,2023,17.Rodada
+26.047,25.176,Crystal Palace FC,0,36,4,3,7,1,15,12,1,FC Fulham,3,64,23,6,0,7,11,15,2,2023,17.Rodada
+39.571,39.252,FC Everton,1,58,12,4,2,2,21,9,1,Wolverhampton Wanderers,2,42,7,2,4,2,9,22,2,2023,17.Rodada
+32.273,32.185,Leicester City FC,0,60,8,2,2,5,6,9,3,Newcastle United,3,40,12,4,2,5,9,6,1,2023,17.Rodada
+32.384,31.010,FC Southampton,1,34,14,7,2,4,9,9,0,Brighton & Hove Albion,3,66,7,2,3,2,9,10,1,2023,17.Rodada
+42.682,42.085,Aston Villa FC,1,47,12,3,6,0,11,7,3,FC Liverpool,3,53,16,6,5,6,6,12,3,2023,17.Rodada
+60.704,60.125,FC Arsenal,3,67,16,6,3,7,17,13,3,West Ham United,1,33,8,4,2,5,13,17,0,2023,17.Rodada
+40.853,40.046,Chelsea FC,2,60,15,7,4,6,10,8,3,AFC Bournemouth,0,40,9,4,3,8,8,10,0,2023,17.Rodada
+74.879,73.608,Manchester United FC,3,66,17,3,3,9,4,13,1,Nottingham Forest,0,34,8,3,5,9,13,4,2,2023,17.Rodada
+37.890,36.889,Leeds United FC,1,31,9,4,6,3,14,11,0,Manchester City FC,3,69,26,12,0,5,11,14,1,2023,17.Rodada
+62.500,62.467,West Ham United,0,63,20,9,4,8,5,9,0,Brentford FC,2,37,9,2,5,1,9,5,0,2023,18.Rodada
+54.074,53.343,FC Liverpool,2,57,21,10,1,4,15,8,2,Leicester City FC,1,43,7,3,5,5,8,15,5,2023,18.Rodada
+32.050,31.658,Wolverhampton Wanderers,0,46,10,1,6,7,10,11,1,Manchester United FC,1,54,16,5,3,5,11,11,2,2023,18.Rodada
+11.329,9.927,AFC Bournemouth,0,59,6,3,4,2,11,17,1,Crystal Palace FC,2,41,15,4,2,7,17,11,1,2023,18.Rodada
+,24.344,FC Fulham,2,63,8,5,2,4,11,8,1,FC Southampton,1,37,9,4,1,4,6,13,0,2023,18.Rodada
+55.017,53.444,Manchester City FC,1,74,16,6,0,7,14,13,3,FC Everton,1,26,2,0,2,1,12,14,2,2023,18.Rodada
+52.338,52.211,Newcastle United,0,59,16,9,1,9,19,13,3,Leeds United FC,0,41,8,3,5,3,11,19,0,2023,18.Rodada
+31.800,31.647,Brighton & Hove Albion,2,68,9,2,3,7,10,7,5,FC Arsenal,4,32,14,3,3,4,6,11,0,2023,18.Rodada
+62.062,61.651,Tottenham Hotspur,0,59,6,2,2,5,9,15,1,Aston Villa FC,2,41,13,4,1,3,15,10,0,2023,18.Rodada
+30.445,29.229,Nottingham Forest,1,28,12,4,1,1,14,16,2,Chelsea FC,1,72,7,2,4,2,16,14,2,2023,18.Rodada
+17.250,17.163,Brentford FC,3,27,10,2,4,4,8,5,7,FC Liverpool,1,73,16,3,5,9,4,8,4,2023,19.Rodada
+60.704,60.319,FC Arsenal,0,67,17,8,1,5,16,10,1,Newcastle United,0,33,8,5,4,5,10,16,4,2023,19.Rodada
+39.571,39.103,FC Everton,1,49,10,5,4,5,10,8,1,Brighton & Hove Albion,4,51,19,6,3,2,8,10,0,2023,19.Rodada
+32.273,30.813,Leicester City FC,0,61,15,6,1,6,11,12,0,FC Fulham,1,39,11,7,6,3,12,11,1,2023,19.Rodada
+74.879,73.322,Manchester United FC,3,59,18,6,4,6,7,13,0,AFC Bournemouth,0,41,7,2,3,5,13,7,2,2023,19.Rodada
+32.384,30.150,FC Southampton,0,62,8,6,0,6,16,14,1,Nottingham Forest,1,38,11,9,0,2,14,16,0,2023,19.Rodada
+37.890,36.173,Leeds United FC,2,63,14,6,0,8,18,11,3,West Ham United,2,37,15,11,3,1,11,18,3,2023,19.Rodada
+42.682,39.978,Aston Villa FC,1,56,13,3,2,7,12,6,1,Wolverhampton Wanderers,1,44,10,4,2,8,5,12,4,2023,19.Rodada
+26.047,25.132,Crystal Palace FC,0,47,19,9,2,10,8,11,1,Tottenham Hotspur,4,53,14,3,4,4,10,8,2,2023,19.Rodada
+40.853,39.998,Chelsea FC,0,48,8,3,2,3,9,9,2,Manchester City FC,1,52,12,6,2,2,9,9,1,2023,19.Rodada
+42.682,42.008,Aston Villa FC,2,54,11,4,2,0,18,12,2,Leeds United FC,1,46,16,4,3,11,12,18,5,2023,20.Rodada
+,75.546,Manchester United FC,2,29,8,1,0,1,5,15,6,Manchester City FC,1,71,5,2,1,2,15,5,2,2023,20.Rodada
+31.800,31.645,Brighton & Hove Albion,3,62,16,3,2,7,14,8,4,FC Liverpool,0,38,6,3,5,1,8,15,2,2023,20.Rodada
+32.050,31.511,Wolverhampton Wanderers,1,58,17,6,3,4,7,10,4,West Ham United,0,42,16,5,3,3,10,7,1,2023,20.Rodada
+30.445,29.301,Nottingham Forest,2,39,15,4,1,3,11,11,2,Leicester City FC,0,61,6,3,3,5,11,12,1,2023,20.Rodada
+39.571,39.305,FC Everton,1,53,12,5,3,6,18,7,3,FC Southampton,2,47,13,2,3,4,6,19,2,2023,20.Rodada
+17.250,17.031,Brentford FC,2,50,12,7,2,5,9,5,2,AFC Bournemouth,0,50,7,3,2,3,5,9,1,2023,20.Rodada
+40.853,40.075,Chelsea FC,1,63,15,5,5,11,17,10,3,Crystal Palace FC,0,37,10,2,4,7,10,17,1,2023,20.Rodada
+52.338,52.247,Newcastle United,1,63,20,7,0,10,12,6,2,FC Fulham,0,37,5,4,5,5,5,14,3,2023,20.Rodada
+62.062,61.870,Tottenham Hotspur,0,51,17,4,4,4,13,16,1,FC Arsenal,2,49,14,5,7,3,16,15,2,2023,20.Rodada
+54.074,53.126,FC Liverpool,0,48,15,6,2,5,9,16,5,Chelsea FC,0,52,11,6,3,5,16,9,1,2023,21.Rodada
+11.329,10.248,AFC Bournemouth,1,43,16,8,4,4,7,10,2,Nottingham Forest,1,57,20,11,2,6,10,7,2,2023,21.Rodada
+,62.470,West Ham United,2,32,11,4,2,4,5,9,1,FC Everton,0,68,5,1,2,9,9,6,2,2023,21.Rodada
+32.384,30.158,FC Southampton,0,37,8,2,4,2,9,19,3,Aston Villa FC,1,63,16,8,5,2,19,9,0,2023,21.Rodada
+32.273,32.056,Leicester City FC,2,36,9,2,2,5,9,9,0,Brighton & Hove Albion,2,64,13,6,0,6,9,9,2,2023,21.Rodada
+26.047,25.350,Crystal Palace FC,0,39,6,1,7,3,7,13,0,Newcastle United,0,61,16,7,1,15,13,7,1,2023,21.Rodada
+55.017,53.282,Manchester City FC,3,55,13,5,1,5,10,10,1,Wolverhampton Wanderers,0,45,10,5,3,7,10,10,0,2023,21.Rodada
+37.890,36.260,Leeds United FC,0,59,9,1,0,2,18,10,1,Brentford FC,0,41,6,5,5,3,10,18,1,2023,21.Rodada
+60.704,60.325,FC Arsenal,3,57,25,7,2,12,9,8,1,Manchester United FC,2,43,6,0,2,4,8,9,4,2023,21.Rodada
+,24.190,FC Fulham,0,53,10,4,2,3,10,10,2,Tottenham Hotspur,1,47,10,4,5,8,10,10,0,2023,21.Rodada
+40.853,40.041,Chelsea FC,0,67,12,7,4,6,12,16,3,FC Fulham,0,33,10,3,2,2,15,12,0,2023,22.Rodada
+42.682,42.055,Aston Villa FC,2,63,19,6,1,11,10,10,2,Leicester City FC,4,37,9,4,3,3,10,10,8,2023,22.Rodada
+17.250,17.051,Brentford FC,3,48,14,6,5,4,9,10,1,FC Southampton,0,52,14,4,0,4,10,9,2,2023,22.Rodada
+31.800,31.600,Brighton & Hove Albion,1,71,20,7,2,7,7,14,0,AFC Bournemouth,0,29,12,7,5,3,14,7,1,2023,22.Rodada
+74.879,73.420,Manchester United FC,2,54,14,5,2,5,8,9,1,Crystal Palace FC,1,46,10,5,3,5,9,9,4,2023,22.Rodada
+32.050,31.664,Wolverhampton Wanderers,3,42,12,5,2,2,5,9,1,FC Liverpool,0,58,22,8,3,7,9,7,2,2023,22.Rodada
+52.338,52.256,Newcastle United,1,63,8,3,0,4,12,11,0,West Ham United,1,37,10,5,1,2,10,13,2,2023,22.Rodada
+30.445,29.363,Nottingham Forest,1,31,6,2,4,0,14,15,2,Leeds United FC,0,69,10,3,1,2,14,14,3,2023,22.Rodada
+62.062,61.747,Tottenham Hotspur,1,36,12,5,5,4,14,19,2,Manchester City FC,0,64,15,5,2,6,18,14,1,2023,22.Rodada
+62.500,62.471,West Ham United,1,28,10,5,3,5,11,9,3,Chelsea FC,1,72,12,4,1,6,9,11,4,2023,23.Rodada
+32.384,29.751,FC Southampton,1,41,17,10,0,5,13,12,0,Wolverhampton Wanderers,2,59,11,2,1,2,12,14,3,2023,23.Rodada
+32.273,32.184,Leicester City FC,4,50,15,6,3,1,9,14,2,Tottenham Hotspur,1,50,11,6,2,5,14,9,2,2023,23.Rodada
+60.704,60.254,FC Arsenal,1,69,23,10,1,7,9,9,1,Brentford FC,1,31,9,4,6,4,9,9,1,2023,23.Rodada
+26.047,24.827,Crystal Palace FC,1,25,6,2,6,1,11,10,3,Brighton & Hove Albion,1,75,17,5,0,6,9,11,2,2023,23.Rodada
+,24.244,FC Fulham,2,50,16,11,1,5,11,9,1,Nottingham Forest,0,50,10,7,1,4,9,11,3,2023,23.Rodada
+11.329,10.419,AFC Bournemouth,1,33,11,5,6,4,10,8,2,Newcastle United,1,67,15,5,3,6,8,10,5,2023,23.Rodada
+37.890,36.919,Leeds United FC,0,33,16,4,3,7,13,10,3,Manchester United FC,2,67,11,4,6,3,10,13,3,2023,23.Rodada
+55.017,53.392,Manchester City FC,3,67,17,3,1,8,14,13,1,Aston Villa FC,1,33,6,2,5,4,12,14,4,2023,23.Rodada
+42.682,42.066,Aston Villa FC,2,33,7,1,2,2,3,13,0,FC Arsenal,4,67,20,8,3,9,12,4,2,2023,24.Rodada
+17.250,17.122,Brentford FC,1,59,12,6,3,2,8,10,3,Crystal Palace FC,1,41,10,3,4,6,10,8,2,2023,24.Rodada
+31.800,31.619,Brighton & Hove Albion,0,65,21,10,1,10,13,12,4,FC Fulham,1,35,5,0,7,2,12,14,0,2023,24.Rodada
+40.853,40.152,Chelsea FC,0,61,17,5,3,8,24,16,3,FC Southampton,1,39,8,3,4,2,16,24,1,2023,24.Rodada
+39.571,39.232,FC Everton,1,50,15,7,0,6,6,8,1,Leeds United FC,0,50,8,4,3,4,8,6,0,2023,24.Rodada
+32.050,31.222,Wolverhampton Wanderers,0,68,15,5,0,12,8,12,2,AFC Bournemouth,1,32,5,1,4,2,11,10,0,2023,24.Rodada
+30.445,29.365,Nottingham Forest,1,27,4,2,5,0,6,8,2,Manchester City FC,1,73,23,11,0,10,8,6,0,2023,24.Rodada
+,52.758,Newcastle United,0,37,14,7,5,6,8,3,3,FC Liverpool,2,63,13,4,4,7,2,8,0,2023,24.Rodada
+74.879,73.578,Manchester United FC,3,57,26,9,3,6,8,9,0,Leicester City FC,0,43,19,9,5,6,9,9,1,2023,24.Rodada
+62.062,61.476,Tottenham Hotspur,2,57,16,4,1,4,8,16,0,West Ham United,0,43,6,4,4,7,16,10,0,2023,24.Rodada
+,24.399,FC Fulham,1,50,10,2,1,3,15,12,1,Wolverhampton Wanderers,1,50,8,5,4,3,12,17,1,2023,25.Rodada
+39.571,39.309,FC Everton,0,47,15,7,3,5,10,12,1,Aston Villa FC,2,53,9,4,4,1,12,12,0,2023,25.Rodada
+37.890,36.641,Leeds United FC,1,60,14,6,2,9,13,15,2,FC Southampton,0,40,8,3,3,2,14,13,3,2023,25.Rodada
+62.500,62.469,West Ham United,4,49,18,8,3,12,5,8,1,Nottingham Forest,0,51,8,3,1,3,6,5,1,2023,25.Rodada
+11.329,10.481,AFC Bournemouth,1,34,13,5,2,4,9,10,1,Manchester City FC,4,66,20,8,1,6,9,9,2,2023,25.Rodada
+26.047,25.842,Crystal Palace FC,0,36,6,4,4,5,14,11,4,FC Liverpool,0,64,12,5,0,3,10,14,1,2023,25.Rodada
+62.062,61.613,Tottenham Hotspur,2,41,8,4,2,4,9,10,0,Chelsea FC,0,59,10,5,1,4,10,10,2,2023,25.Rodada
+74.879,73.309,Manchester United FC,1,65,18,8,1,12,13,8,3,Brentford FC,0,35,6,4,2,3,8,13,1,2023,25.Rodada
+52.338,52.122,Newcastle United,4,34,22,6,1,6,16,17,1,Brighton & Hove Albion,1,66,8,3,5,1,17,16,2,2023,25.Rodada
+55.017,53.419,Manchester City FC,2,57,11,6,2,8,12,8,0,Newcastle United,0,43,5,1,1,4,5,13,1,2023,26.Rodada
+,31.585,Wolverhampton Wanderers,1,46,8,3,6,4,17,11,3,Tottenham Hotspur,0,54,21,6,4,8,10,18,1,2023,26.Rodada
+40.853,39.905,Chelsea FC,1,58,13,8,2,5,7,10,2,Leeds United FC,0,42,11,6,2,7,10,7,2,2023,26.Rodada
+31.800,31.523,Brighton & Hove Albion,4,68,20,7,2,7,7,6,0,West Ham United,0,32,3,0,5,3,5,8,0,2023,26.Rodada
+42.682,41.893,Aston Villa FC,1,58,8,4,0,2,17,14,0,Crystal Palace FC,0,42,3,2,1,4,14,17,5,2023,26.Rodada
+60.704,60.222,FC Arsenal,3,81,31,10,2,17,8,6,0,AFC Bournemouth,2,19,4,0,6,1,6,8,0,2023,26.Rodada
+32.384,30.139,FC Southampton,1,35,11,2,0,3,10,12,4,Leicester City FC,0,65,11,7,4,4,12,11,2,2023,26.Rodada
+30.404,29.353,Nottingham Forest,2,57,10,2,1,3,17,11,0,FC Everton,2,43,10,2,2,3,11,17,0,2023,26.Rodada
+54.074,53.001,FC Liverpool,7,60,18,5,4,4,13,13,0,Manchester United FC,0,40,8,3,1,3,12,14,4,2023,26.Rodada
+17.250,17.025,Brentford FC,3,36,14,7,3,2,16,12,3,FC Fulham,2,64,9,4,3,3,12,17,1,2023,26.Rodada
+11.329,10.536,AFC Bournemouth,1,31,5,3,5,3,9,7,2,FC Liverpool,0,69,15,8,1,8,6,9,4,2023,27.Rodada
+39.571,39.036,FC Everton,1,33,13,6,3,5,12,11,3,Brentford FC,0,67,12,6,5,8,10,12,1,2023,27.Rodada
+37.890,36.471,Leeds United FC,2,38,13,3,2,4,9,12,3,Brighton & Hove Albion,2,62,14,8,2,7,12,9,3,2023,27.Rodada
+62.850,61.460,Tottenham Hotspur,3,56,15,3,4,2,13,13,1,Nottingham Forest,1,44,9,2,4,10,12,13,1,2023,27.Rodada
+32.273,32.170,Leicester City FC,1,49,17,4,3,2,10,10,0,Chelsea FC,3,51,12,3,5,5,9,11,4,2023,27.Rodada
+26.047,25.844,Crystal Palace FC,0,32,4,0,3,2,17,11,3,Manchester City FC,1,68,14,5,0,6,11,17,2,2023,27.Rodada
+,24.426,FC Fulham,0,45,12,6,4,4,9,10,2,FC Arsenal,3,55,15,3,2,8,10,9,2,2023,27.Rodada
+,62.472,West Ham United,1,41,17,8,3,12,6,9,6,Aston Villa FC,1,59,12,4,4,2,9,6,1,2023,27.Rodada
+74.879,73.439,Manchester United FC,0,47,10,3,4,7,9,12,0,FC Southampton,0,53,17,4,4,8,12,9,2,2023,27.Rodada
+52.338,52.240,Newcastle United,2,42,19,3,3,10,10,11,0,Wolverhampton Wanderers,1,58,7,3,6,3,11,10,0,2023,27.Rodada
+30.445,29.362,Nottingham Forest,1,39,5,2,2,3,9,17,1,Newcastle United,2,61,15,5,2,7,16,9,1,2023,28.Rodada
+42.682,41.021,Aston Villa FC,3,56,20,3,3,9,13,8,0,AFC Bournemouth,0,44,9,3,6,6,8,13,2,2023,28.Rodada
+17.250,17.006,Brentford FC,1,53,11,2,0,8,11,10,1,Leicester City FC,1,47,14,6,1,4,10,11,3,2023,28.Rodada
+32.384,30.157,FC Southampton,3,50,19,7,0,10,7,13,2,Tottenham Hotspur,3,50,17,9,4,3,12,8,1,2023,28.Rodada
+32.050,31.570,Wolverhampton Wanderers,2,66,23,9,0,5,8,14,2,Leeds United FC,4,34,11,5,6,4,12,9,0,2023,28.Rodada
+40.853,40.025,Chelsea FC,2,69,20,3,1,8,12,8,2,FC Everton,2,31,12,4,5,2,8,12,1,2023,28.Rodada
+60.704,60.247,FC Arsenal,4,62,15,5,3,5,10,8,2,Crystal Palace FC,1,38,8,1,1,4,8,10,2,2023,28.Rodada
+54.074,52.602,FC Liverpool,1,58,15,9,3,7,7,10,3,FC Fulham,0,42,9,3,2,5,10,8,2,2023,28.Rodada
+55.017,53.305,Manchester City FC,3,69,16,7,2,6,8,8,1,West Ham United,0,31,6,3,4,3,8,8,0,2023,28.Rodada
+31.800,31.577,Brighton & Hove Albion,1,60,22,11,5,8,13,10,0,Manchester United FC,0,40,16,6,5,6,9,14,2,2023,28.Rodada
+55.017,52.877,Manchester City FC,4,68,17,3,0,7,12,9,3,FC Liverpool,1,32,4,0,4,1,9,12,5,2023,29.Rodada
+30.445,29.368,Nottingham Forest,1,28,17,7,0,4,13,14,2,Wolverhampton Wanderers,1,72,8,3,6,3,13,13,0,2023,29.Rodada
+26.047,25.143,Crystal Palace FC,2,51,31,8,1,10,16,12,1,Leicester City FC,1,49,3,0,8,1,11,16,2,2023,29.Rodada
+31.800,31.493,Brighton & Hove Albion,3,73,33,8,2,14,9,16,2,Brentford FC,3,27,7,1,11,0,15,10,2,2023,29.Rodada
+11.329,10.305,AFC Bournemouth,2,43,12,3,1,4,13,15,1,FC Fulham,1,57,10,6,4,3,14,13,1,2023,29.Rodada
+60.704,60.283,FC Arsenal,4,67,13,2,4,4,12,11,5,Leeds United FC,1,33,7,1,1,3,11,13,1,2023,29.Rodada
+40.853,40.082,Chelsea FC,0,69,27,15,0,13,16,14,2,Aston Villa FC,2,31,5,3,7,2,14,16,0,2023,29.Rodada
+62.500,62.465,West Ham United,1,43,12,7,3,5,11,10,1,FC Southampton,0,57,9,4,2,3,10,11,1,2023,29.Rodada
+52.338,52.268,Newcastle United,2,47,22,9,1,7,12,8,1,Manchester United FC,0,53,6,3,4,4,8,12,0,2023,29.Rodada
+39.571,39.294,FC Everton,1,39,15,5,0,3,14,10,1,Tottenham Hotspur,1,61,8,5,5,3,10,14,3,2023,29.Rodada
+74.879,73.509,Manchester United FC,2,64,29,10,1,10,9,10,3,FC Everton,0,36,15,6,9,4,10,9,2,2023,30.Rodada
+32.050,31.614,Wolverhampton Wanderers,1,38,9,3,1,8,9,14,2,Chelsea FC,0,62,13,4,3,8,14,10,1,2023,30.Rodada
+62.062,61.405,Tottenham Hotspur,2,35,9,4,3,3,12,15,2,Brighton & Hove Albion,1,65,17,5,1,7,15,15,1,2023,30.Rodada
+32.273,32.094,Leicester City FC,0,51,14,8,6,6,13,10,3,AFC Bournemouth,1,49,19,2,4,6,10,13,2,2023,30.Rodada
+,24.491,FC Fulham,0,77,16,2,5,11,10,10,0,West Ham United,1,23,9,4,3,4,9,12,2,2023,30.Rodada
+17.250,17.107,Brentford FC,1,41,12,4,3,6,14,10,2,Newcastle United,2,59,10,4,5,5,10,15,2,2023,30.Rodada
+,42.076,Aston Villa FC,2,65,8,4,2,1,17,7,1,Nottingham Forest,0,35,6,1,1,8,7,17,7,2023,30.Rodada
+32.384,30.963,FC Southampton,1,27,4,2,4,0,10,6,0,Manchester City FC,4,73,13,2,0,10,6,10,2,2023,30.Rodada
+37.890,36.427,Leeds United FC,1,48,11,4,2,2,8,11,2,Crystal Palace FC,5,52,16,4,7,4,11,8,2,2023,30.Rodada
+54.074,53.267,FC Liverpool,2,59,21,10,3,5,10,11,2,FC Arsenal,2,41,9,2,4,4,10,11,2,2023,30.Rodada
+42.682,42.055,Aston Villa FC,3,52,15,6,2,7,15,13,1,Newcastle United,0,48,8,3,3,2,13,15,4,2023,31.Rodada
+32.050,30.769,Wolverhampton Wanderers,2,51,11,0,3,5,7,12,0,Brentford FC,0,49,10,3,7,2,11,8,1,2023,31.Rodada
+,61.369,Tottenham Hotspur,2,57,24,8,3,8,8,8,1,AFC Bournemouth,3,43,9,2,6,1,7,9,1,2023,31.Rodada
+32.384,30.309,FC Southampton,0,58,11,4,0,6,12,6,3,Crystal Palace FC,2,42,9,4,4,2,6,13,1,2023,31.Rodada
+39.571,39.241,FC Everton,1,46,15,6,4,4,6,10,1,FC Fulham,3,54,21,9,6,7,10,6,0,2023,31.Rodada
+40.853,40.126,Chelsea FC,1,42,8,5,9,2,11,11,1,Brighton & Hove Albion,2,58,26,10,1,8,11,11,1,2023,31.Rodada
+55.017,53.329,Manchester City FC,3,71,12,5,3,6,7,8,0,Leicester City FC,1,29,10,3,1,2,8,8,3,2023,31.Rodada
+62.500,62.475,West Ham United,2,28,16,6,3,7,8,11,4,FC Arsenal,2,72,11,4,1,2,9,8,1,2023,31.Rodada
+30.445,29.435,Nottingham Forest,0,32,6,4,5,4,8,9,1,Manchester United FC,2,68,22,9,0,9,8,9,3,2023,31.Rodada
+37.890,36.657,Leeds United FC,1,26,13,7,1,4,11,6,1,FC Liverpool,6,74,13,4,2,2,6,12,2,2023,31.Rodada
+60.704,60.175,FC Arsenal,3,74,25,11,3,7,14,10,1,FC Southampton,3,26,8,1,2,2,10,14,2,2023,32.Rodada
+,24.356,FC Fulham,2,49,12,3,2,8,15,10,5,Leeds United FC,1,51,10,4,3,6,10,15,2,2023,32.Rodada
+54.074,53.254,FC Liverpool,3,81,18,7,3,9,12,9,2,Nottingham Forest,2,19,11,5,2,3,9,12,3,2023,32.Rodada
+32.273,32.053,Leicester City FC,2,42,15,4,2,1,16,17,1,Wolverhampton Wanderers,1,58,16,7,5,7,17,16,3,2023,32.Rodada
+,25.202,Crystal Palace FC,0,57,12,5,5,8,13,12,1,FC Everton,0,43,10,3,2,1,12,14,3,2023,32.Rodada
+,17.098,Brentford FC,1,42,16,6,1,8,8,12,6,Aston Villa FC,1,58,14,11,4,4,12,8,3,2023,32.Rodada
+52.338,52.252,Newcastle United,6,57,25,5,2,9,13,7,2,Tottenham Hotspur,1,43,11,5,2,3,7,13,0,2023,32.Rodada
+11.329,10.465,AFC Bournemouth,0,64,17,7,6,8,8,7,0,West Ham United,4,36,18,4,5,5,7,8,3,2023,32.Rodada
+31.800,31.388,Brighton & Hove Albion,1,39,20,6,3,5,10,16,2,Manchester City FC,1,61,13,6,6,1,14,11,0,2023,32.Rodada
+74.879,73.561,Manchester United FC,4,41,18,4,4,3,6,12,0,Chelsea FC,1,59,14,5,5,4,12,6,0,2023,32.Rodada
+32.050,30.792,Wolverhampton Wanderers,2,41,9,4,4,6,14,13,2,Crystal Palace FC,0,59,14,4,2,11,13,14,1,2023,33.Rodada
+42.682,41.046,Aston Villa FC,1,52,14,4,0,8,18,6,0,FC Fulham,0,48,1,1,2,2,6,18,5,2023,33.Rodada
+37.890,36.666,Leeds United FC,1,41,13,6,2,3,15,14,4,Leicester City FC,1,59,15,6,2,6,14,15,6,2023,33.Rodada
+30.445,28.808,Nottingham Forest,3,25,12,5,6,2,7,7,1,Brighton & Hove Albion,1,75,17,6,3,7,7,8,2,2023,33.Rodada
+40.853,39.929,Chelsea FC,0,73,15,8,0,5,13,5,0,Brentford FC,2,27,7,5,4,2,5,13,2,2023,33.Rodada
+62.500,62.473,West Ham United,1,27,7,4,2,3,8,6,1,FC Liverpool,2,73,20,9,1,6,5,8,1,2023,33.Rodada
+55.017,53.482,Manchester City FC,4,52,14,3,1,1,13,13,0,FC Arsenal,1,48,8,3,5,3,11,13,1,2023,33.Rodada
+32.384,30.414,FC Southampton,0,56,11,6,1,6,10,9,4,AFC Bournemouth,1,44,16,4,2,4,7,11,2,2023,33.Rodada
+39.571,39.248,FC Everton,1,40,13,5,3,3,6,8,3,Newcastle United,4,60,15,3,4,14,8,6,1,2023,33.Rodada
+62.062,61.586,Tottenham Hotspur,2,40,18,7,5,6,7,8,2,Manchester United FC,2,60,17,5,5,8,8,7,3,2023,33.Rodada
+26.047,25.148,Crystal Palace FC,4,60,16,4,1,8,17,9,1,West Ham United,3,40,8,3,2,5,9,17,1,2023,34.Rodada
+31.800,31.584,Brighton & Hove Albion,6,57,22,7,2,2,11,14,2,Wolverhampton Wanderers,0,43,10,5,2,5,14,11,0,2023,34.Rodada
+17.250,17.080,Brentford FC,2,69,14,3,2,6,13,6,1,Nottingham Forest,1,31,5,1,6,0,6,13,1,2023,34.Rodada
+52.338,52.234,Newcastle United,3,64,22,9,2,11,8,7,1,FC Southampton,1,36,4,1,3,2,7,10,2,2023,34.Rodada
+74.879,73.592,Manchester United FC,1,57,14,6,1,1,7,16,7,Aston Villa FC,0,43,7,2,5,4,16,7,3,2023,34.Rodada
+,24.498,FC Fulham,1,37,4,1,7,2,10,9,3,Manchester City FC,2,63,12,3,0,5,8,10,1,2023,34.Rodada
+,10.434,AFC Bournemouth,4,43,12,2,5,2,14,12,2,Leeds United FC,1,57,15,7,3,5,11,14,1,2023,34.Rodada
+54.074,53.275,FC Liverpool,4,68,12,4,3,4,6,12,0,Tottenham Hotspur,3,32,10,3,0,2,12,6,5,2023,34.Rodada
+32.273,32.173,Leicester City FC,2,55,15,4,6,2,11,10,6,FC Everton,2,45,23,9,3,9,9,12,3,2023,34.Rodada
+60.704,60.144,FC Arsenal,3,55,16,3,3,7,10,10,1,Chelsea FC,1,45,7,1,6,2,10,10,0,2023,34.Rodada
+11.329,10.357,AFC Bournemouth,1,34,10,4,2,7,9,9,1,Chelsea FC,3,66,11,5,3,7,8,11,0,2023,35.Rodada
+55.017,53.406,Manchester City FC,2,81,18,10,1,10,15,3,4,Leeds United FC,1,19,4,1,4,1,3,16,3,2023,35.Rodada
+32.050,31.641,Wolverhampton Wanderers,1,38,6,2,3,5,9,20,3,Aston Villa FC,0,62,16,6,1,6,20,9,2,2023,35.Rodada
+62.062,61.093,Tottenham Hotspur,1,57,8,3,2,8,13,15,1,Crystal Palace FC,0,43,7,3,2,4,15,14,0,2023,35.Rodada
+54.074,52.838,FC Liverpool,1,54,15,6,2,7,9,19,1,Brentford FC,0,46,5,3,4,3,19,10,2,2023,35.Rodada
+52.338,50.267,Newcastle United,0,54,12,4,5,9,11,16,0,FC Arsenal,2,46,10,2,5,4,16,12,1,2023,35.Rodada
+62.500,62.477,West Ham United,1,35,15,5,4,5,8,4,1,Manchester United FC,0,65,19,12,3,6,3,9,1,2023,35.Rodada
+,24.442,FC Fulham,5,57,17,5,6,2,15,13,1,Leicester City FC,3,43,18,4,2,7,11,15,4,2023,35.Rodada
+31.800,31.567,Brighton & Hove Albion,1,78,23,9,1,15,13,11,1,FC Everton,5,22,10,1,4,1,11,13,1,2023,35.Rodada
+30.445,29.154,Nottingham Forest,4,36,9,3,2,2,9,16,3,FC Southampton,3,64,19,9,0,11,16,10,1,2023,35.Rodada
+37.890,36.955,Leeds United FC,2,36,9,3,3,2,13,16,0,Newcastle United,2,64,18,7,2,6,14,14,2,2023,36.Rodada
+42.682,42.164,Aston Villa FC,2,49,8,4,1,8,14,9,2,Tottenham Hotspur,1,51,5,2,2,3,9,14,9,2023,36.Rodada
+40.853,40.030,Chelsea FC,2,76,14,3,0,2,15,13,1,Nottingham Forest,2,24,11,7,4,5,11,15,2,2023,36.Rodada
+26.047,25.034,Crystal Palace FC,2,60,17,7,0,11,12,5,2,AFC Bournemouth,0,40,5,1,3,2,5,12,1,2023,36.Rodada
+74.879,73.570,Manchester United FC,2,48,27,11,0,11,9,9,0,Wolverhampton Wanderers,0,52,5,5,8,7,9,9,1,2023,36.Rodada
+32.384,28.978,FC Southampton,0,35,5,2,1,1,9,17,4,FC Fulham,2,65,9,1,1,8,17,12,1,2023,36.Rodada
+17.250,17.075,Brentford FC,2,53,24,9,4,7,3,5,3,West Ham United,0,47,4,0,7,5,5,5,3,2023,36.Rodada
+39.571,39.376,FC Everton,0,37,7,3,1,8,4,12,1,Manchester City FC,3,63,9,3,2,6,10,4,0,2023,36.Rodada
+60.704,60.139,FC Arsenal,0,41,14,8,3,5,16,13,1,Brighton & Hove Albion,3,59,12,5,2,2,13,17,4,2023,36.Rodada
+32.273,32.225,Leicester City FC,0,33,4,0,2,4,17,11,3,FC Liverpool,3,67,16,6,4,4,11,17,4,2023,36.Rodada
+62.062,61.514,Tottenham Hotspur,1,62,22,6,1,8,8,11,1,Brentford FC,3,38,11,6,6,2,10,9,1,2023,37.Rodada
+11.329,10.240,AFC Bournemouth,0,41,10,3,4,3,7,6,0,Manchester United FC,1,59,20,8,4,6,6,7,2,2023,37.Rodada
+,24.356,FC Fulham,2,49,11,3,3,7,12,13,2,Crystal Palace FC,2,51,11,3,2,4,13,12,2,2023,37.Rodada
+54.074,53.306,FC Liverpool,1,66,10,1,2,9,12,16,4,Aston Villa FC,1,34,6,2,4,3,16,13,1,2023,37.Rodada
+32.050,31.684,Wolverhampton Wanderers,1,53,13,6,3,1,9,18,1,FC Everton,1,47,19,9,4,7,18,10,0,2023,37.Rodada
+62.500,62.478,West Ham United,3,59,19,4,2,9,10,6,1,Leeds United FC,1,41,12,6,6,5,6,11,1,2023,37.Rodada
+31.800,31.507,Brighton & Hove Albion,3,63,26,11,0,4,9,8,1,FC Southampton,1,37,5,3,5,3,8,9,1,2023,37.Rodada
+55.017,53.490,Manchester City FC,1,65,15,7,6,5,9,12,2,Chelsea FC,0,35,13,4,1,2,11,9,2,2023,37.Rodada
+52.338,52.152,Newcastle United,0,77,23,13,1,12,5,9,1,Leicester City FC,0,23,1,0,3,1,9,5,0,2023,37.Rodada

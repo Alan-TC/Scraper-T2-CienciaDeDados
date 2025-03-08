@@ -1,0 +1,35 @@
+capacidade_estadio,publico_estadio,time_casa,gols_casa,posse_casa,tentativas_casa,chutes_fora_casa,defesa_casa,escanteios_casa,cobrancas_falta_casa,faltas_cometidas_casa,impedimentos_casa,time_fora,gols_fora,posse_fora,tentativas_fora,chutes_fora_fora,defesa_fora,escanteios_fora,cobrancas_falta_fora,faltas_cometidas_fora,impedimentos_fora,ano,fase
+82.000,2.500,SE Palmeiras,1,42,8,4,2,6,16,18,1,Santos FC,0,58,6,3,0,4,17,17,0,2020,final
+43.600,0,SE Palmeiras,0,34,6,3,10,1,10,14,1,CA River Plate,2,66,23,9,0,10,14,10,5,2020,semifinais - Jogos de volta
+20.120,0,Santos FC,3,45,20,8,1,6,14,11,3,CA Boca Juniors,0,55,8,3,5,6,11,15,3,2020,semifinais - Jogos de volta
+50.655,0,CA River Plate,0,71,11,8,3,6,20,12,1,SE Palmeiras,3,29,11,4,2,2,12,21,1,2020,Semifinais - Jogos de ida
+49.000,0,CA Boca Juniors,0,46,9,5,2,3,10,14,4,Santos FC,0,54,10,5,2,2,12,11,3,2020,Semifinais - Jogos de ida
+43.600,0,SE Palmeiras,3,60,22,8,2,7,8,13,3,Club Libertad Asuncion,0,40,6,0,9,4,11,9,2,2020,quartas de final - Jogos de volta
+20.120,0,Santos FC,4,31,17,5,2,3,9,17,0,Grêmio FBPA,1,69,14,5,4,10,15,10,1,2020,quartas de final - Jogos de volta
+34.000,0,Club Nacional,2,35,8,5,5,2,16,7,0,CA River Plate,6,65,26,10,1,5,5,17,3,2020,quartas de final - Jogos de volta
+49.000,0,CA Boca Juniors,2,49,23,9,2,10,5,8,1,Racing Club,0,51,4,2,8,2,8,5,2,2020,quartas de final - Jogos de volta
+10.000,0,Club Libertad Asuncion,1,39,17,9,3,4,13,16,1,SE Palmeiras,1,61,11,3,3,8,16,14,0,2020,Quartas de final - Jogos de ida
+60.540,0,Grêmio FBPA,1,63,11,4,4,10,19,10,1,Santos FC,1,37,13,6,3,1,10,20,0,2020,Quartas de final - Jogos de ida
+50.655,0,CA River Plate,2,63,11,3,1,4,13,21,4,Club Nacional,0,37,4,2,4,2,20,14,2,2020,Quartas de final - Jogos de ida
+51.389,0,Racing Club,1,53,12,6,5,6,15,13,1,CA Boca Juniors,0,47,13,7,0,6,9,16,3,2020,Quartas de final - Jogos de ida
+50.655,0,CA River Plate,1,68,23,9,4,9,15,15,5,Athletico Paranaense,0,32,9,3,8,4,14,15,1,2020,Oitavas de final - Jogos de volta
+2.012,0,Santos FC,0,53,18,13,2,6,13,14,0,LDU Quito,1,47,12,6,2,2,14,13,3,2020,Oitavas de final - Jogos de volta
+78.838,0,CR Flamengo,4,67,19,7,2,15,12,13,1,Racing Club,6pen.,33,5,1,4,0,12,12,0,2020,Oitavas de final - Jogos de volta
+34.000,0,Club Nacional,4,23,6,2,7,1,10,9,1,Independiente del Valle,2pen.,77,11,4,2,8,8,10,2,2020,Oitavas de final - Jogos de volta
+436,0,SE Palmeiras,5,64,18,8,3,5,9,10,1,Delfín SC,0,36,12,6,2,6,10,9,1,2020,Oitavas de final - Jogos de volta
+32.303,0,Club Jorge Wilstermann,0,71,27,13,2,13,7,11,0,Club Libertad Asuncion,2,29,13,6,7,4,10,8,0,2020,Oitavas de final - Jogos de volta
+60.540,0,Grêmio FBPA,2,61,15,8,2,5,19,9,2,Club Guaraní,0,39,7,5,1,5,9,20,1,2020,Oitavas de final - Jogos de volta
+57.200,0,CA Boca Juniors,5,51,8,4,2,4,15,9,2,SC Internacional,4pen.,49,12,6,1,5,9,16,0,2020,Oitavas de final - Jogos de volta
+554,0,LDU Quito,1,65,16,2,4,5,15,17,2,Santos FC,2,35,9,3,5,5,17,15,0,2020,Oitavas de final - Jogos de ida
+42.372,0,Athletico Paranaense,1,30,5,2,4,4,13,16,1,CA River Plate,1,70,16,5,0,15,16,15,2,2020,Oitavas de final - Jogos de ida
+51.389,0,Racing Club,1,46,10,8,2,8,16,13,3,CR Flamengo,1,54,7,2,1,1,13,17,3,2020,Oitavas de final - Jogos de ida
+17.834,0,Delfín SC,1,46,8,2,4,7,14,14,0,SE Palmeiras,3,54,15,6,3,1,13,17,0,2020,Oitavas de final - Jogos de ida
+55.400,0,Independiente del Valle,0,78,32,17,2,9,9,10,0,Club Nacional,0,22,6,4,5,1,10,10,1,2020,Oitavas de final - Jogos de ida
+10.000,0,Club Libertad Asuncion,3,64,24,10,1,8,10,10,1,Club Jorge Wilstermann,1,36,5,2,3,1,10,13,2,2020,Oitavas de final - Jogos de ida
+40.799,0,Club Guaraní,0,43,10,4,3,6,11,19,0,Grêmio FBPA,2,57,8,3,2,5,18,11,0,2020,Oitavas de final - Jogos de ida
+56.000,0,SC Internacional,0,52,12,8,2,4,15,12,0,CA Boca Juniors,1,48,12,4,1,10,12,16,2,2020,Oitavas de final - Jogos de ida
+45.000,0,Club Guaraní,2,41,15,7,4,5,20,18,3,CD Palestino,1,59,12,7,2,4,17,22,2,2020,3ª eliminatória - jogos de volta
+33.000,0,Deportes Tolima,1,49,9,5,4,4,12,21,2,CD Macará,0,51,10,5,3,2,20,13,1,2020,2ª eliminatória - jogos de volta
+,35.200 esgotado,Club Atlético Tucumán,6,54,24,13,1,9,7,15,2,The Strongest La Paz,5pen.,46,4,2,6,2,13,8,2,2020,2ª eliminatória - jogos de volta
+49.205,0,SC Corinthians,2,59,23,8,2,6,22,10,4,Club Guaraní,1,41,14,5,5,5,9,23,0,2020,2ª eliminatória - jogos de volta
+48.000,0,Club Sporting Cristal,2,53,12,4,4,5,15,18,2,Barcelona SC Guayaquil,1,47,10,1,3,4,17,18,2,2020,2ª eliminatória - jogos de volta
