@@ -1,0 +1,23 @@
+capacidade_estadio,publico_estadio,time_casa,gols_casa,posse_casa,tentativas_casa,chutes_fora_casa,defesa_casa,escanteios_casa,cobrancas_falta_casa,faltas_cometidas_casa,impedimentos_casa,time_fora,gols_fora,posse_fora,tentativas_fora,chutes_fora_fora,defesa_fora,escanteios_fora,cobrancas_falta_fora,faltas_cometidas_fora,impedimentos_fora,ano,fase
+46.000,44.876,Atlético Mineiro,0,68,19,6,8,11,6,12,2,CR Flamengo,1,32,18,4,6,5,12,7,1,2024,final - jogo de volta
+78.838,67.459,CR Flamengo,3,43,10,4,1,2,13,9,1,Atlético Mineiro,1,57,13,6,2,6,9,13,1,2024,final - jogo de ida
+24.584,18.190,CR Vasco da Gama,1,37,13,6,2,7,7,15,0,Atlético Mineiro,1,63,7,2,2,4,15,9,0,2024,semifinais - Jogos de volta
+49.205,46.246,SC Corinthians,0,59,14,3,0,7,10,19,2,CR Flamengo,0,41,5,2,6,5,19,10,1,2024,semifinais - Jogos de volta
+46.000,42.039,Atlético Mineiro,2,62,13,5,0,5,14,15,2,CR Vasco da Gama,1,38,7,3,4,2,14,14,2,2024,Semifinais - Jogos de ida
+78.838,47.052,CR Flamengo,1,57,19,8,1,6,19,12,4,SC Corinthians,0,43,10,3,6,4,12,20,1,2024,Semifinais - Jogos de ida
+49.205,45.199,SC Corinthians,3,69,26,11,2,9,19,14,0,EC Juventude,1,31,9,3,10,2,14,19,1,2024,quartas de final - Jogos de volta
+42.372,34.097,Athletico Paranaense,6,72,25,10,1,9,13,12,3,CR Vasco da Gama,6pen.,28,9,6,6,1,11,13,3,2024,quartas de final - Jogos de volta
+46.000,41.552,Atlético Mineiro,0,40,12,3,3,1,14,11,0,São Paulo FC,0,60,15,6,4,5,11,16,0,2024,quartas de final - Jogos de volta
+78.838,65.662,CR Flamengo,1,46,11,4,0,7,7,7,3,EC Bahia,0,54,8,3,4,0,7,7,2,2024,quartas de final - Jogos de volta
+72.039,51.432,São Paulo FC,0,57,13,8,1,7,16,15,0,Atlético Mineiro,1,43,5,2,4,2,14,16,0,2024,Quartas de final - Jogos de ida
+47.364,46.018,EC Bahia,0,62,17,10,0,5,12,11,6,CR Flamengo,1,38,7,2,3,1,9,14,3,2024,Quartas de final - Jogos de ida
+24.584,18.068,CR Vasco da Gama,2,59,11,6,0,4,19,16,2,Athletico Paranaense,1,41,4,3,1,2,16,20,0,2024,Quartas de final - Jogos de ida
+23.726,14.117,EC Juventude,2,54,17,6,3,6,12,14,1,SC Corinthians,1,46,11,3,3,4,14,12,1,2024,Quartas de final - Jogos de ida
+24.584,17.608,CR Vasco da Gama,1,48,7,4,2,1,11,15,0,Atlético Goianiense,0,52,11,6,1,5,15,11,2,2024,Oitavas de final - Jogos de volta
+47.364,36.812,EC Bahia,1,62,16,5,1,7,15,13,2,Botafogo FR,0,38,10,6,4,4,13,16,3,2024,Oitavas de final - Jogos de volta
+15.010,4.046,RB Bragantino,2,67,28,11,2,11,7,14,2,Athletico Paranaense,3,33,13,4,6,1,14,9,1,2024,Oitavas de final - Jogos de volta
+46.000,34.711,Atlético Mineiro,3,67,19,11,0,5,10,15,1,CRB,0,33,0,0,4,1,15,10,0,2024,Oitavas de final - Jogos de volta
+43.713,38.463,SE Palmeiras,1,59,20,9,2,11,10,17,5,CR Flamengo,0,41,5,2,5,4,16,10,0,2024,Oitavas de final - Jogos de volta
+40.540,29.242,Grêmio FBPA,1,53,16,5,4,6,9,12,2,SC Corinthians,3pen.,47,11,3,6,4,11,12,1,2024,Oitavas de final - Jogos de volta
+82.238,39.427,Fluminense FC,2,81,23,8,3,14,16,4,1,EC Juventude,2,19,9,1,8,2,4,17,1,2024,Oitavas de final - Jogos de volta
+15.049,8.281,Goiás EC,0,47,13,9,2,5,14,19,1,São Paulo FC,0,53,7,5,2,3,18,14,1,2024,Oitavas de final - Jogos de volta

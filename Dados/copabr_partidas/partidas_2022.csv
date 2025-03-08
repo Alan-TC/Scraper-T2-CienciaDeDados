@@ -1,0 +1,31 @@
+capacidade_estadio,publico_estadio,time_casa,gols_casa,posse_casa,tentativas_casa,chutes_fora_casa,defesa_casa,escanteios_casa,cobrancas_falta_casa,faltas_cometidas_casa,impedimentos_casa,time_fora,gols_fora,posse_fora,tentativas_fora,chutes_fora_fora,defesa_fora,escanteios_fora,cobrancas_falta_fora,faltas_cometidas_fora,impedimentos_fora,ano,fase
+78.838,61.566,CR Flamengo,7,37,11,5,6,2,10,10,3,SC Corinthians,6pen.,63,16,3,2,9,10,10,1,2022,final - jogo de volta
+49.205,47.031,SC Corinthians,0,44,13,7,6,3,10,12,0,CR Flamengo,0,56,19,10,3,5,12,10,1,2022,final - jogo de ida
+78.838,62.977,CR Flamengo,1,45,8,5,6,7,12,12,1,São Paulo FC,0,55,16,7,2,6,10,13,2,2022,semifinais - Jogos de volta
+49.205,45.558,SC Corinthians,3,37,16,9,4,5,9,10,5,Fluminense FC,0,63,13,5,4,10,9,9,2,2022,semifinais - Jogos de volta
+82.238,58.203,Fluminense FC,2,64,14,7,0,6,12,6,0,SC Corinthians,2,36,9,4,3,5,6,13,2,2022,Semifinais - Jogos de ida
+72.039,51.365,São Paulo FC,1,53,26,9,1,17,9,14,0,CR Flamengo,3,47,7,2,4,2,13,9,0,2022,Semifinais - Jogos de ida
+82.238,60.833,Fluminense FC,2,70,15,5,3,9,12,9,2,Fortaleza EC,2,30,12,7,5,3,9,12,5,2022,quartas de final - Jogos de volta
+42.372,39.360,Athletico Paranaense,0,37,10,8,6,7,6,18,1,CR Flamengo,1,63,13,4,1,4,18,6,1,2022,quartas de final - Jogos de volta
+49.205,43.195,SC Corinthians,4,59,15,3,2,7,14,9,1,Atlético Goianiense,1,41,9,4,3,2,8,14,4,2022,quartas de final - Jogos de volta
+25.000,10.450,América Mineiro,2,55,10,6,2,4,9,15,3,São Paulo FC,2,45,8,3,2,1,14,10,1,2022,quartas de final - Jogos de volta
+13.000,12.089,Atlético Goianiense,2,39,8,5,1,4,11,8,1,SC Corinthians,0,61,8,4,1,7,7,12,1,2022,Quartas de final - Jogos de ida
+78.838,65.271,CR Flamengo,0,74,22,13,0,7,18,13,1,Athletico Paranaense,0,26,4,4,5,3,13,20,2,2022,Quartas de final - Jogos de ida
+72.039,51.297,São Paulo FC,1,59,13,6,1,5,12,10,2,América Mineiro,0,41,8,4,4,4,10,14,1,2022,Quartas de final - Jogos de ida
+60.326,29.898,Fortaleza EC,0,38,11,4,2,7,11,22,5,Fluminense FC,1,62,10,4,3,3,22,11,6,2022,Quartas de final - Jogos de ida
+42.372,26.324,Athletico Paranaense,2,60,23,9,2,7,10,6,2,EC Bahia,1,40,13,6,2,5,6,12,0,2022,Oitavas de final - Jogos de volta
+59.483,58.844,Cruzeiro EC,0,44,12,4,3,4,7,12,7,Fluminense FC,3,56,12,3,5,5,12,7,0,2022,Oitavas de final - Jogos de volta
+14.525,13.607,Goiás EC,0,39,13,7,2,6,12,19,0,Atlético Goianiense,3,61,13,7,4,4,19,12,1,2022,Oitavas de final - Jogos de volta
+60.326,48.510,Ceará SC,1,66,14,7,4,5,24,14,0,Fortaleza EC,0,34,17,5,2,4,14,25,0,2022,Oitavas de final - Jogos de volta
+20.120,12.294,Santos FC,1,57,13,5,0,6,6,12,0,SC Corinthians,0,43,6,4,2,1,12,6,1,2022,Oitavas de final - Jogos de volta
+78.838,68.747,CR Flamengo,2,48,21,7,0,4,14,18,1,Atlético Mineiro,0,52,7,5,7,5,16,14,0,2022,Oitavas de final - Jogos de volta
+43.600,41.361,SE Palmeiras,5,42,17,5,2,14,14,12,0,São Paulo FC,5pen.,58,9,5,4,5,11,16,0,2022,Oitavas de final - Jogos de volta
+46.931,13.862,Botafogo FR,0,59,26,9,3,6,12,14,3,América Mineiro,2,41,11,4,11,3,13,13,2,2022,Oitavas de final - Jogos de volta
+13.000,10.645,Atlético Goianiense,0,65,16,5,2,17,13,8,4,Goiás EC,0,35,12,7,5,5,8,14,0,2022,Oitavas de final - Jogos de ida
+55.000,20.484,EC Bahia,1,59,18,7,3,5,10,19,0,Athletico Paranaense,2,41,10,2,3,3,19,11,2,2022,Oitavas de final - Jogos de ida
+60.326,29.876,Fortaleza EC,2,39,17,2,4,9,9,18,0,Ceará SC,0,61,12,5,5,6,16,10,0,2022,Oitavas de final - Jogos de ida
+,53.953,Atlético Mineiro,2,40,7,2,1,3,14,16,1,CR Flamengo,1,60,10,5,2,6,13,14,0,2022,Oitavas de final - Jogos de ida
+49.205,40.624,SC Corinthians,4,59,13,3,1,9,16,10,0,Santos FC,0,41,6,3,4,4,10,16,1,2022,Oitavas de final - Jogos de ida
+82.238,46.325,Fluminense FC,2,69,31,16,0,8,10,13,2,Cruzeiro EC,1,31,5,3,5,3,12,11,1,2022,Oitavas de final - Jogos de ida
+72.039,38.201,São Paulo FC,1,43,14,5,0,4,4,13,2,SE Palmeiras,0,57,6,6,3,1,13,4,4,2022,Oitavas de final - Jogos de ida
+25.000,3.861,América Mineiro,3,45,20,9,5,8,6,16,1,Botafogo FR,0,55,21,13,4,5,16,6,0,2022,Oitavas de final - Jogos de ida

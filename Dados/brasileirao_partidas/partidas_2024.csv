@@ -1,0 +1,294 @@
+capacidade_estadio,publico_estadio,time_casa,gols_casa,posse_casa,tentativas_casa,chutes_fora_casa,defesa_casa,escanteios_casa,cobrancas_falta_casa,faltas_cometidas_casa,impedimentos_casa,time_fora,gols_fora,posse_fora,tentativas_fora,chutes_fora_fora,defesa_fora,escanteios_fora,cobrancas_falta_fora,faltas_cometidas_fora,impedimentos_fora,ano,rodada
+50.848,22.045,SC Internacional,2,53,17,7,3,6,13,20,3,EC Bahia,1,47,9,3,6,3,19,13,2,2024,1.Rodada
+19.225,12.408,Criciúma EC,1,47,10,4,3,0,15,11,3,EC Juventude,1,53,15,7,2,4,9,15,4,2024,1.Rodada
+82.238,17.645,Fluminense FC,2,69,26,10,6,13,19,8,0,RB Bragantino,2,31,16,7,9,6,8,19,0,2024,1.Rodada
+72.039,35.055,São Paulo FC,1,71,14,5,0,11,14,10,2,Fortaleza EC,2,29,6,3,4,4,10,14,1,2024,1.Rodada
+24.584,18.055,CR Vasco da Gama,2,47,15,7,1,3,10,19,1,Grêmio FBPA,1,53,9,5,1,5,18,10,1,2024,1.Rodada
+49.205,44.597,SC Corinthians,0,49,13,7,3,3,12,16,0,Atlético Mineiro,0,51,8,2,1,3,16,12,2,2024,1.Rodada
+42.372,22.169,Athletico Paranaense,4,62,20,6,0,7,9,16,2,Cuiabá EC,0,38,1,1,5,0,16,9,1,2024,1.Rodada
+50.000,35.195,Atlético Goianiense,1,32,11,5,0,4,12,12,2,CR Flamengo,2,68,15,8,3,4,11,12,1,2024,1.Rodada
+61.927,36.661,Cruzeiro EC,3,56,15,4,1,6,11,12,2,Botafogo FR,2,44,6,3,2,3,10,11,0,2024,1.Rodada
+,30.793,EC Vitória,0,56,12,4,3,3,15,12,2,SE Palmeiras,1,44,15,7,5,9,11,15,3,2024,1.Rodada
+47.364,23.080,EC Bahia,2,40,12,5,2,4,20,15,3,Fluminense FC,1,60,9,3,3,3,13,23,2,2024,2.Rodada
+60.540,13.541,Grêmio FBPA,2,48,14,4,0,9,13,7,0,Athletico Paranaense,0,52,4,3,5,2,7,13,1,2024,2.Rodada
+15.010,5.532,RB Bragantino,2,40,17,9,2,4,14,14,0,CR Vasco da Gama,1,60,13,8,3,6,12,15,3,2024,2.Rodada
+46.000,24.613,Atlético Mineiro,1,68,22,8,0,9,10,12,2,Criciúma EC,1,32,5,4,5,2,10,10,0,2024,2.Rodada
+32.713,13.541,SE Palmeiras,0,68,18,11,1,6,21,14,4,SC Internacional,1,32,5,3,3,2,11,21,1,2024,2.Rodada
+60.326,22.131,Fortaleza EC,1,39,14,6,4,7,9,13,0,Cruzeiro EC,1,61,14,6,2,5,13,10,2,2024,2.Rodada
+23.726,7.478,EC Juventude,2,45,16,4,2,6,10,16,1,SC Corinthians,0,55,17,11,6,7,15,10,2,2024,2.Rodada
+78.838,48.103,CR Flamengo,2,46,12,4,2,9,18,19,1,São Paulo FC,1,54,10,3,4,1,17,19,2,2024,2.Rodada
+46.931,8.508,Botafogo FR,1,53,13,6,3,8,11,13,1,Atlético Goianiense,0,47,12,4,3,8,13,11,2,2024,2.Rodada
+42.968,3.614,Cuiabá EC,0,54,11,7,4,4,13,19,1,EC Vitória,0,46,13,7,0,3,17,14,1,2024,2.Rodada
+82.238,25.842,Fluminense FC,2,58,11,2,4,2,17,16,1,CR Vasco da Gama,1,42,21,8,6,7,15,17,4,2024,3.Rodada
+60.540,22.904,Grêmio FBPA,1,57,7,3,3,3,5,10,0,Cuiabá EC,0,43,14,8,3,4,10,5,0,2024,3.Rodada
+15.010,9.613,RB Bragantino,1,35,10,5,4,3,10,21,0,SC Corinthians,0,65,15,8,2,4,20,10,4,2024,3.Rodada
+46.000,39.541,Atlético Mineiro,3,56,9,3,2,4,16,15,1,Cruzeiro EC,0,44,10,1,1,4,15,17,2,2024,3.Rodada
+30.618,27.609,EC Vitória,2,43,13,4,4,2,12,11,5,EC Bahia,2,57,18,6,6,5,11,13,2,2024,3.Rodada
+43.713,29.956,SE Palmeiras,0,48,11,7,3,5,13,23,3,CR Flamengo,0,52,8,3,1,5,23,14,0,2024,3.Rodada
+46.931,13.273,Botafogo FR,5,55,13,5,0,5,10,22,1,EC Juventude,1,45,12,5,1,4,20,10,1,2024,3.Rodada
+13.000,9.017,Atlético Goianiense,0,34,9,4,4,4,9,13,0,São Paulo FC,3,66,19,4,1,3,12,9,2,2024,3.Rodada
+24.584,17.124,CR Vasco da Gama,0,58,21,8,6,5,7,13,0,Criciúma EC,4,42,17,5,5,4,13,7,2,2024,4.Rodada
+42.968,6.711,Cuiabá EC,0,33,4,2,2,3,16,11,2,Atlético Mineiro,3,67,13,5,1,10,11,17,1,2024,4.Rodada
+47.364,36.066,EC Bahia,1,60,14,5,2,4,13,10,1,Grêmio FBPA,0,40,3,1,3,0,10,15,2,2024,4.Rodada
+78.838,53.683,CR Flamengo,0,60,15,11,1,8,15,12,2,Botafogo FR,2,40,9,1,0,3,12,15,1,2024,4.Rodada
+61.927,20.083,Cruzeiro EC,3,54,15,5,3,10,5,12,0,EC Vitória,1,46,8,5,3,4,11,6,0,2024,4.Rodada
+49.205,42.119,SC Corinthians,3,31,17,4,2,6,15,15,1,Fluminense FC,0,69,13,5,4,8,14,15,2,2024,4.Rodada
+60.326,18.113,Fortaleza EC,1,44,22,9,2,12,6,9,1,RB Bragantino,1,56,10,4,4,6,8,6,2,2024,4.Rodada
+23.726,5.032,EC Juventude,1,55,15,6,6,4,17,12,1,Athletico Paranaense,1,45,15,5,4,6,12,17,3,2024,4.Rodada
+50.848,23.836,SC Internacional,1,72,22,9,1,13,12,13,1,Atlético Goianiense,1,28,4,0,4,0,13,12,5,2024,4.Rodada
+72.039,55.694,São Paulo FC,0,57,16,8,2,6,17,10,2,SE Palmeiras,0,43,9,3,1,4,10,20,3,2024,4.Rodada
+21.238,14.202,Fluminense FC,2,43,10,3,5,4,16,11,0,Atlético Mineiro,2,57,19,6,3,10,11,18,3,2024,5.Rodada
+30.618,25.739,EC Vitória,1,33,6,1,3,3,13,10,0,São Paulo FC,3,67,20,8,1,8,9,13,2,2024,5.Rodada
+42.372,31.192,Athletico Paranaense,1,56,26,13,2,6,9,11,3,CR Vasco da Gama,0,44,7,6,6,5,11,9,3,2024,5.Rodada
+46.931,22.685,Botafogo FR,1,55,16,10,2,5,5,10,6,EC Bahia,2,45,10,5,4,1,8,5,0,2024,5.Rodada
+42.968,10.781,Cuiabá EC,0,45,9,6,4,6,9,10,2,SE Palmeiras,2,55,15,6,1,6,10,11,1,2024,5.Rodada
+23.726,5.123,EC Juventude,1,42,8,5,5,4,11,13,1,Atlético Goianiense,0,58,22,9,1,7,12,12,1,2024,5.Rodada
+61.927,35.238,Cruzeiro EC,0,69,19,12,0,10,12,12,1,SC Internacional,0,31,1,1,4,3,11,13,1,2024,5.Rodada
+60.540,18.457,Grêmio FBPA,1,65,15,6,2,6,12,8,0,Criciúma EC,2,35,11,5,2,3,6,12,1,2024,5.Rodada
+78.838,56.829,CR Flamengo,2,58,18,4,3,13,16,12,1,SC Corinthians,0,42,13,5,8,6,11,16,1,2024,6.Rodada
+32.713,12.108,SE Palmeiras,0,63,23,11,5,9,17,11,1,Athletico Paranaense,2,37,11,2,5,6,9,17,1,2024,6.Rodada
+60.326,15.914,Fortaleza EC,1,43,10,5,4,6,18,12,5,Botafogo FR,1,57,11,5,2,5,10,19,0,2024,6.Rodada
+13.000,7.576,Atlético Goianiense,0,46,17,6,3,5,9,13,0,Cruzeiro EC,1,54,12,3,5,5,12,10,2,2024,6.Rodada
+47.364,36.820,EC Bahia,1,49,8,3,5,6,14,12,4,RB Bragantino,0,51,15,6,2,7,10,15,3,2024,6.Rodada
+24.584,11.084,CR Vasco da Gama,2,57,17,3,4,4,12,12,1,EC Vitória,1,43,13,5,6,4,12,12,0,2024,6.Rodada
+72.039,39.515,São Paulo FC,2,49,15,4,2,7,11,15,4,Fluminense FC,1,51,7,4,6,4,13,12,0,2024,6.Rodada
+,13.846,Criciúma EC,2,61,22,9,2,6,13,10,5,Cuiabá EC,5,39,13,4,6,2,10,13,0,2024,6.Rodada
+50.848,11.920,SC Internacional,2,48,21,7,2,8,16,19,1,EC Juventude,1,52,8,4,8,1,19,17,0,2024,6.Rodada
+46.000,22.053,Atlético Mineiro,2,44,14,7,3,4,6,15,0,Grêmio FBPA,1,56,14,5,3,10,14,7,1,2024,6.Rodada
+60.540,7.563,Grêmio FBPA,0,44,9,4,2,6,19,16,0,RB Bragantino,2,56,14,7,1,0,15,19,1,2024,7.Rodada
+30.618,16.008,EC Vitória,0,34,12,4,3,3,9,7,0,Atlético Goianiense,2,66,12,5,3,4,7,9,1,2024,7.Rodada
+82.238,21.037,Fluminense FC,1,62,17,8,2,5,19,13,1,EC Juventude,1,38,12,5,3,3,13,19,3,2024,7.Rodada
+42.968,5.747,Cuiabá EC,0,36,8,4,1,0,21,12,4,SC Internacional,1,64,9,3,3,2,11,21,1,2024,7.Rodada
+49.205,40.937,SC Corinthians,0,53,16,7,1,2,15,7,3,Botafogo FR,1,47,9,3,7,5,7,16,2,2024,7.Rodada
+46.000,37.994,Atlético Mineiro,1,64,20,11,1,5,8,13,6,EC Bahia,1,36,9,4,3,4,13,9,0,2024,7.Rodada
+78.584,62.228,CR Vasco da Gama,1,27,2,0,12,1,5,18,1,CR Flamengo,6,73,30,4,1,8,18,6,1,2024,7.Rodada
+19.225,19.027,Criciúma EC,1,39,12,4,3,4,7,17,0,SE Palmeiras,2,61,23,11,3,6,15,9,1,2024,7.Rodada
+72.039,44.928,São Paulo FC,2,55,11,6,3,4,11,18,0,Cruzeiro EC,0,45,10,5,2,2,17,11,1,2024,7.Rodada
+20.326,12.191,Fortaleza EC,1,52,11,4,2,2,15,12,0,Athletico Paranaense,0,48,14,8,3,4,11,17,2,2024,7.Rodada
+13.000,12.089,Atlético Goianiense,2,73,22,8,1,3,12,12,1,SC Corinthians,2,27,7,3,6,4,12,13,0,2024,8.Rodada
+23.726,6.186,EC Juventude,1,60,12,8,3,5,7,16,1,EC Vitória,1,40,18,9,1,4,16,8,1,2024,8.Rodada
+46.931,27.239,Botafogo FR,1,44,19,9,0,14,14,22,4,Fluminense FC,0,56,6,5,5,2,22,14,0,2024,8.Rodada
+15.010,4.516,RB Bragantino,1,55,15,7,2,8,17,17,1,Atlético Mineiro,2,45,10,2,4,5,17,18,2,2024,8.Rodada
+61.927,26.595,Cruzeiro EC,2,51,12,5,4,6,12,9,0,Cuiabá EC,1,49,16,5,4,4,9,12,1,2024,8.Rodada
+19.848,17.987,SC Internacional,0,52,7,6,5,5,16,15,1,São Paulo FC,0,48,9,3,0,3,15,18,3,2024,8.Rodada
+78.838,51.785,CR Flamengo,2,42,16,8,4,4,10,9,0,Grêmio FBPA,1,58,15,6,4,6,7,10,0,2024,8.Rodada
+42.372,23.424,Athletico Paranaense,3,57,23,10,3,5,10,9,2,Criciúma EC,1,43,12,5,4,3,9,12,3,2024,8.Rodada
+47.364,30.048,EC Bahia,1,54,12,6,6,5,9,14,0,Fortaleza EC,0,46,21,8,2,9,12,9,6,2024,8.Rodada
+43.713,37.641,SE Palmeiras,2,57,28,13,2,10,13,10,1,CR Vasco da Gama,0,43,9,6,4,6,10,14,1,2024,8.Rodada
+15.010,3.338,RB Bragantino,2,36,6,1,5,1,12,12,0,EC Juventude,1,64,14,5,0,1,12,12,5,2024,9.Rodada
+82.238,14.485,Fluminense FC,1,56,9,4,5,3,11,10,1,Atlético Goianiense,2,44,17,7,4,3,10,12,1,2024,9.Rodada
+30.618,14.251,EC Vitória,2,39,11,5,4,4,16,6,3,SC Internacional,1,61,15,8,2,2,5,16,2,2024,9.Rodada
+49.205,46.129,SC Corinthians,2,40,16,4,6,9,10,15,1,São Paulo FC,2,60,12,2,6,5,15,10,1,2024,9.Rodada
+42.372,38.641,Athletico Paranaense,1,47,14,6,5,5,10,11,0,CR Flamengo,1,53,9,1,2,9,11,11,2,2024,9.Rodada
+21.540,15.811,Grêmio FBPA,1,45,15,5,3,7,11,12,0,Botafogo FR,2,55,14,5,2,4,12,11,0,2024,9.Rodada
+24.584,11.275,CR Vasco da Gama,0,50,14,7,2,5,10,11,0,Cruzeiro EC,0,50,8,3,4,5,11,11,3,2024,9.Rodada
+42.968,4.474,Cuiabá EC,5,55,21,5,0,5,4,9,1,Fortaleza EC,0,45,2,2,8,1,9,6,1,2024,9.Rodada
+19.225,8.661,Criciúma EC,2,32,17,6,4,6,11,14,4,EC Bahia,2,68,22,10,3,7,14,13,1,2024,9.Rodada
+46.000,31.448,Atlético Mineiro,0,52,11,5,5,3,16,16,1,SE Palmeiras,4,48,22,8,3,6,15,16,2,2024,9.Rodada
+46.931,19.589,Botafogo FR,1,62,8,7,5,5,13,13,1,Athletico Paranaense,1,38,16,5,0,9,13,14,2,2024,10.Rodada
+13.000,6.478,Atlético Goianiense,1,50,12,8,5,5,11,10,1,Criciúma EC,2,50,19,5,0,1,10,11,4,2024,10.Rodada
+72.039,33.586,São Paulo FC,0,66,15,10,2,4,16,5,3,Cuiabá EC,1,34,11,7,4,6,5,16,0,2024,10.Rodada
+60.326,16.935,Fortaleza EC,1,52,13,6,2,8,6,15,1,Grêmio FBPA,0,48,8,4,3,3,14,7,3,2024,10.Rodada
+23.726,4.838,EC Juventude,2,54,14,5,2,5,17,13,1,CR Vasco da Gama,0,46,6,3,3,4,12,18,5,2024,10.Rodada
+19.848,15.111,SC Internacional,1,47,11,2,3,3,13,17,4,SC Corinthians,0,53,13,4,4,7,16,13,1,2024,10.Rodada
+61.927,28.812,Cruzeiro EC,2,35,17,7,4,6,10,16,3,Fluminense FC,0,65,9,4,3,5,15,11,0,2024,10.Rodada
+30.618,15.159,EC Vitória,4,39,12,5,5,2,12,15,0,Atlético Mineiro,2,61,19,8,2,4,15,13,1,2024,10.Rodada
+78.838,49.909,CR Flamengo,2,35,14,7,2,6,10,8,1,EC Bahia,1,65,9,6,1,2,8,10,3,2024,10.Rodada
+43.713,29.119,SE Palmeiras,2,41,24,6,2,10,9,10,5,RB Bragantino,1,59,13,8,5,3,8,9,2,2024,10.Rodada
+19.225,16.256,Criciúma EC,2,38,16,6,1,4,12,16,2,Botafogo FR,1,62,11,6,2,7,15,14,1,2024,11.Rodada
+40.540,27.961,Grêmio FBPA,0,58,10,5,1,5,11,12,1,SC Internacional,1,42,16,9,2,4,11,11,0,2024,11.Rodada
+47.364,35.541,EC Bahia,4,64,14,3,0,3,13,6,4,Cruzeiro EC,1,36,7,5,2,1,5,13,4,2024,11.Rodada
+82.238,57.098,Fluminense FC,0,54,2,2,3,2,13,16,4,CR Flamengo,1,46,14,8,0,6,16,13,0,2024,11.Rodada
+42.372,34.682,Athletico Paranaense,1,55,20,8,5,11,12,19,1,SC Corinthians,1,45,15,7,7,2,19,12,1,2024,11.Rodada
+46.000,20.089,Atlético Mineiro,1,67,21,5,2,3,16,15,1,Fortaleza EC,1,33,13,7,7,4,14,17,0,2024,11.Rodada
+43.713,38.258,SE Palmeiras,3,56,28,12,7,10,6,14,3,EC Juventude,1,44,16,6,7,4,12,7,0,2024,11.Rodada
+15.010,4.426,RB Bragantino,2,64,16,7,4,6,10,10,2,EC Vitória,1,36,10,3,4,7,10,11,4,2024,11.Rodada
+61.927,26.465,Cruzeiro EC,2,49,22,8,3,7,6,8,1,Athletico Paranaense,0,51,14,6,5,12,7,6,0,2024,12.Rodada
+46.931,13.333,Botafogo FR,2,49,12,7,5,7,12,13,1,RB Bragantino,1,51,13,4,2,4,12,12,1,2024,12.Rodada
+49.205,38.475,SC Corinthians,1,66,24,9,3,13,12,10,2,Cuiabá EC,1,34,13,3,6,1,10,13,1,2024,12.Rodada
+13.000,8.838,Atlético Goianiense,1,49,16,8,3,5,10,13,2,Grêmio FBPA,1,51,11,5,4,8,12,11,0,2024,12.Rodada
+23.726,12.675,EC Juventude,2,53,15,6,3,7,10,9,4,CR Flamengo,1,47,9,2,7,8,9,10,2,2024,12.Rodada
+19.848,9.978,SC Internacional,1,46,13,3,3,5,10,17,3,Atlético Mineiro,2,54,16,5,6,9,16,10,0,2024,12.Rodada
+47.364,38.318,EC Bahia,2,63,17,6,2,7,13,14,4,CR Vasco da Gama,1,37,9,6,6,0,14,15,1,2024,12.Rodada
+60.326,28.631,Fortaleza EC,3,32,12,2,7,3,8,17,0,SE Palmeiras,0,68,17,6,3,8,17,11,2,2024,12.Rodada
+82.238,26.569,Fluminense FC,0,63,12,4,5,6,11,14,2,EC Vitória,1,37,9,1,5,2,14,12,0,2024,12.Rodada
+72.039,28.008,São Paulo FC,2,62,13,4,0,2,21,10,1,Criciúma EC,1,38,10,6,4,2,9,22,0,2024,12.Rodada
+24.584,16.121,CR Vasco da Gama,1,54,10,6,5,0,20,13,0,Botafogo FR,1,46,13,4,1,5,12,23,0,2024,13.Rodada
+42.968,5.024,Cuiabá EC,1,33,5,3,4,3,16,13,2,RB Bragantino,1,67,15,6,1,11,12,16,1,2024,13.Rodada
+46.000,39.767,Atlético Mineiro,1,68,15,4,4,5,9,10,0,Atlético Goianiense,1,32,12,4,5,8,10,11,2,2024,13.Rodada
+43.713,41.175,SE Palmeiras,2,49,19,3,4,7,10,18,2,SC Corinthians,0,51,13,8,8,3,18,10,0,2024,13.Rodada
+42.968,7.849,Cuiabá EC,1,51,11,4,2,7,14,8,2,Botafogo FR,2,49,6,0,5,5,8,15,7,2024,14.Rodada
+24.584,14.384,CR Vasco da Gama,2,60,19,5,4,7,12,21,2,Fortaleza EC,0,40,10,4,7,3,21,12,1,2024,14.Rodada
+19.225,12.352,Criciúma EC,1,35,13,5,6,7,6,11,2,Cruzeiro EC,0,65,17,10,5,10,11,7,1,2024,14.Rodada
+46.000,39.993,Atlético Mineiro,2,51,11,3,4,4,10,12,1,CR Flamengo,4,49,14,3,2,4,12,11,2,2024,14.Rodada
+15.010,3.102,RB Bragantino,3,52,13,5,5,3,9,15,1,Atlético Goianiense,1,48,13,6,2,8,15,9,3,2024,14.Rodada
+42.372,28.632,Athletico Paranaense,1,45,12,6,6,6,7,19,1,São Paulo FC,2,55,13,1,3,2,18,8,2,2024,14.Rodada
+42.968,4.826,Cuiabá EC,0,53,12,4,3,3,10,17,0,EC Juventude,0,47,9,6,3,3,16,11,2,2024,16.Rodada
+15.010,3.871,RB Bragantino,2,45,11,4,9,1,13,13,1,SC Internacional,2,55,24,9,2,9,11,13,2,2024,16.Rodada
+82.238,39.465,Fluminense FC,1,75,14,4,2,5,12,9,1,Athletico Paranaense,0,25,6,3,4,3,9,15,1,2024,17.Rodada
+50.848,43.729,SC Internacional,1,47,18,11,2,5,8,14,1,CR Flamengo,1,53,12,4,3,5,12,10,5,2024,17.Rodada
+19.225,11.849,Criciúma EC,1,49,14,6,6,6,15,17,0,RB Bragantino,0,51,15,9,1,8,17,15,1,2024,19.Rodada
+50.848,26.441,SC Internacional,2,61,16,3,0,8,6,19,4,Fortaleza EC,1,39,12,8,6,3,18,9,2,2024,19.Rodada
+24.584,16.696,CR Vasco da Gama,1,49,13,4,2,3,13,16,0,Cuiabá EC,0,51,13,10,1,2,15,14,1,2024,19.Rodada
+42.372,40.935,Athletico Paranaense,1,30,17,10,3,4,9,11,1,Atlético Mineiro,0,70,13,7,4,3,11,10,1,2024,19.Rodada
+21.150,20.000,Cruzeiro EC,1,69,15,5,2,5,15,18,1,Fortaleza EC,2,31,11,3,6,1,18,17,2,2024,21.Rodada
+60.326,40.311,Fortaleza EC,1,51,16,7,2,4,13,16,2,Criciúma EC,0,49,12,7,3,6,16,13,1,2024,22.Rodada
+42.968,9.853,Cuiabá EC,1,60,15,6,3,5,6,15,3,Grêmio FBPA,3,40,10,4,3,5,12,7,1,2024,22.Rodada
+61.927,61.583,Cruzeiro EC,0,35,6,4,3,4,12,19,2,Atlético Mineiro,0,65,12,4,1,4,17,12,2,2024,22.Rodada
+44.584,20.003,CR Vasco da Gama,2,43,8,3,3,6,11,23,2,Fluminense FC,0,57,12,9,1,3,23,12,1,2024,22.Rodada
+49.205,42.018,SC Corinthians,1,63,19,9,5,6,18,11,3,RB Bragantino,1,37,11,3,4,6,11,18,1,2024,22.Rodada
+23.726,5.288,EC Juventude,3,37,16,3,7,6,14,10,1,Botafogo FR,2,63,24,8,4,12,9,14,0,2024,22.Rodada
+47.364,45.972,EC Bahia,2,57,7,2,5,3,11,10,2,EC Vitória,0,43,13,3,1,7,9,12,0,2024,22.Rodada
+78.838,55.051,CR Flamengo,1,52,11,2,5,4,20,15,1,SE Palmeiras,1,48,9,2,6,2,14,21,2,2024,22.Rodada
+,46.600,São Paulo FC,1,45,12,2,6,3,8,15,1,Atlético Goianiense,0,55,13,5,5,2,13,8,1,2024,22.Rodada
+50.848,17.136,SC Internacional,2,54,23,8,3,9,13,18,0,Athletico Paranaense,2,46,12,4,1,0,17,13,2,2024,22.Rodada
+60.540,56.102,Grêmio FBPA,0,40,13,5,3,1,10,10,1,EC Bahia,2,60,12,3,5,5,10,10,1,2024,23.Rodada
+46.000,36.290,Atlético Mineiro,1,60,13,7,4,8,12,13,3,Cuiabá EC,1,40,11,2,3,6,13,14,0,2024,23.Rodada
+15.010,3.928,RB Bragantino,1,61,13,2,5,9,13,19,3,Fortaleza EC,2,39,14,2,7,2,18,13,1,2024,23.Rodada
+82.238,30.475,Fluminense FC,0,56,16,6,2,6,16,10,0,SC Corinthians,0,44,8,4,4,2,9,17,3,2024,23.Rodada
+43.713,37.244,SE Palmeiras,2,53,24,10,3,6,12,17,2,São Paulo FC,1,47,8,4,6,1,16,12,1,2024,23.Rodada
+13.000,5.460,Atlético Goianiense,1,42,13,4,6,4,6,11,1,SC Internacional,0,58,19,5,4,7,11,6,0,2024,23.Rodada
+19.225,18.403,Criciúma EC,2,51,19,10,2,9,5,15,4,CR Vasco da Gama,2,49,13,5,6,10,15,7,1,2024,23.Rodada
+46.931,23.731,Botafogo FR,4,54,19,7,2,5,7,17,3,CR Flamengo,1,46,10,4,5,2,17,7,0,2024,23.Rodada
+42.372,22.926,Athletico Paranaense,1,60,23,10,3,10,9,17,1,EC Juventude,2,40,8,2,6,4,16,10,1,2024,23.Rodada
+30.618,17.062,EC Vitória,2,30,14,5,10,4,11,10,0,Cruzeiro EC,2,70,25,8,3,7,9,13,0,2024,23.Rodada
+13.000,4.407,Atlético Goianiense,2,40,18,7,2,4,10,17,0,EC Juventude,1,60,13,5,5,5,16,10,2,2024,24.Rodada
+43.713,30.956,SE Palmeiras,5,58,14,3,3,7,6,16,1,Cuiabá EC,0,42,10,4,4,1,16,6,2,2024,24.Rodada
+46.000,32.068,Atlético Mineiro,0,61,19,14,5,5,7,19,1,Fluminense FC,2,39,8,1,0,2,19,7,0,2024,24.Rodada
+47.364,40.198,EC Bahia,0,53,17,9,5,4,21,19,3,Botafogo FR,0,47,14,4,7,7,19,21,2,2024,24.Rodada
+60.326,51.297,Fortaleza EC,1,45,8,3,3,3,15,14,2,SC Corinthians,0,55,12,2,4,9,14,16,2,2024,24.Rodada
+19.225,17.377,Criciúma EC,0,47,19,9,3,6,8,15,3,Grêmio FBPA,1,53,14,3,4,9,15,8,4,2024,24.Rodada
+72.039,32.712,São Paulo FC,2,58,12,5,3,4,8,7,1,EC Vitória,1,42,10,4,1,3,7,8,0,2024,24.Rodada
+50.848,26.634,SC Internacional,1,44,19,8,3,12,9,12,0,Cruzeiro EC,0,56,5,2,8,3,12,9,0,2024,24.Rodada
+78.838,28.159,CR Flamengo,2,55,13,2,1,6,12,13,1,RB Bragantino,1,45,12,9,6,10,13,12,1,2024,24.Rodada
+24.584,16.775,CR Vasco da Gama,2,46,7,1,3,4,11,10,4,Athletico Paranaense,1,54,9,4,2,5,9,11,1,2024,24.Rodada
+42.968,4.095,Cuiabá EC,2,45,22,12,3,5,8,16,0,Criciúma EC,1,55,12,6,1,5,16,9,3,2024,25.Rodada
+46.931,32.564,Botafogo FR,2,64,22,8,1,9,8,13,2,Fortaleza EC,0,36,10,5,5,6,12,8,0,2024,25.Rodada
+60.540,27.442,Grêmio FBPA,2,28,11,5,10,5,15,11,0,Atlético Mineiro,3,72,27,8,2,9,9,17,3,2024,25.Rodada
+61.927,50.000,Cruzeiro EC,3,49,11,3,3,8,6,13,0,Atlético Goianiense,1,51,17,11,3,3,13,7,3,2024,25.Rodada
+49.205,45.635,SC Corinthians,2,43,13,6,2,5,16,18,3,CR Flamengo,1,57,10,5,2,2,17,18,0,2024,25.Rodada
+30.618,20.923,EC Vitória,0,47,21,9,5,10,7,7,1,CR Vasco da Gama,1,53,9,2,5,3,7,7,2,2024,25.Rodada
+82.238,45.759,Fluminense FC,2,44,10,3,2,5,16,13,0,São Paulo FC,0,56,15,6,3,4,12,16,0,2024,25.Rodada
+15.010,3.921,RB Bragantino,2,30,15,7,5,5,13,8,3,EC Bahia,1,70,16,7,4,10,7,13,1,2024,25.Rodada
+42.372,28.334,Athletico Paranaense,0,47,15,4,8,4,7,10,0,SE Palmeiras,2,53,19,3,9,4,10,9,2,2024,25.Rodada
+23.726,10.721,EC Juventude,1,37,14,6,4,6,14,13,0,SC Internacional,3,63,18,8,4,4,13,17,1,2024,25.Rodada
+13.000,4.938,Atlético Goianiense,0,64,13,5,2,9,13,14,0,EC Vitória,2,36,7,2,5,5,10,14,0,2024,26.Rodada
+42.372,31.551,Athletico Paranaense,1,55,30,11,2,13,7,12,3,Fortaleza EC,1,45,10,5,7,4,11,10,0,2024,26.Rodada
+46.931,32.718,Botafogo FR,2,57,21,4,1,6,7,12,0,SC Corinthians,1,43,12,7,8,3,11,7,1,2024,26.Rodada
+43.713,37.244,SE Palmeiras,5,53,14,3,5,4,11,12,3,Criciúma EC,0,47,14,6,4,6,11,11,2,2024,26.Rodada
+15.010,5.228,RB Bragantino,2,47,23,9,2,6,7,12,2,Grêmio FBPA,2,53,8,3,4,7,12,7,1,2024,26.Rodada
+23.726,6.232,EC Juventude,2,53,12,4,0,8,9,8,2,Fluminense FC,1,47,8,5,3,5,7,9,1,2024,26.Rodada
+61.927,55.000,Cruzeiro EC,0,61,14,9,3,7,10,11,1,São Paulo FC,1,39,14,5,1,7,11,10,1,2024,26.Rodada
+47.364,26.420,EC Bahia,3,55,16,6,2,6,16,17,1,Atlético Mineiro,0,45,5,1,1,1,16,16,3,2024,26.Rodada
+78.838,65.200,CR Flamengo,1,61,17,9,1,5,10,10,3,CR Vasco da Gama,1,39,9,3,2,6,8,10,1,2024,26.Rodada
+50.848,35.366,SC Internacional,3,67,15,6,0,2,9,8,3,Cuiabá EC,0,33,2,2,4,3,7,10,2,2024,26.Rodada
+30.618,24.479,EC Vitória,1,36,13,8,2,4,15,12,3,EC Juventude,0,64,11,6,1,5,10,15,0,2024,27.Rodada
+,46.001,SC Corinthians,3,61,17,5,3,6,16,7,3,Atlético Goianiense,0,39,14,8,3,1,7,17,1,2024,27.Rodada
+82.238,22.000,Fluminense FC,0,50,13,7,6,5,16,13,0,Botafogo FR,1,50,9,1,5,4,13,17,3,2024,27.Rodada
+60.326,42.051,Fortaleza EC,4,37,11,1,3,2,9,13,3,EC Bahia,1,63,9,2,3,1,10,9,4,2024,27.Rodada
+46.000,34.533,Atlético Mineiro,3,50,13,5,3,4,9,14,2,RB Bragantino,0,50,8,3,5,2,14,9,1,2024,27.Rodada
+72.788,25.755,CR Vasco da Gama,0,55,10,6,2,5,14,8,0,SE Palmeiras,1,45,14,8,3,5,8,14,2,2024,27.Rodada
+60.540,48.504,Grêmio FBPA,3,44,12,5,6,4,12,6,1,CR Flamengo,2,56,20,7,1,6,5,13,1,2024,27.Rodada
+72.039,35.111,São Paulo FC,1,61,7,3,3,2,15,18,6,SC Internacional,3,39,14,4,1,4,17,16,2,2024,27.Rodada
+42.968,5.948,Cuiabá EC,0,48,9,5,2,4,10,10,2,Cruzeiro EC,0,52,13,5,4,5,10,10,0,2024,27.Rodada
+19.225,12.765,Criciúma EC,0,62,25,12,3,12,12,11,0,Athletico Paranaense,0,38,10,5,7,1,10,12,0,2024,27.Rodada
+32.713,16.040,SE Palmeiras,2,43,15,3,3,7,10,15,2,Atlético Mineiro,1,57,6,2,6,3,15,10,1,2024,28.Rodada
+46.931,42.220,Botafogo FR,0,63,15,6,4,5,13,10,2,Grêmio FBPA,0,37,11,5,3,3,9,14,0,2024,28.Rodada
+23.726,6.285,EC Juventude,1,52,12,5,5,4,18,9,1,RB Bragantino,1,48,15,6,5,5,9,19,0,2024,28.Rodada
+72.039,25.888,São Paulo FC,3,53,19,6,2,7,17,18,2,SC Corinthians,1,47,11,5,5,2,18,17,2,2024,28.Rodada
+60.326,42.000,Fortaleza EC,1,54,15,7,1,7,9,18,2,Cuiabá EC,0,46,2,1,6,3,16,9,7,2024,28.Rodada
+13.000,7.871,Atlético Goianiense,1,39,16,7,2,4,14,15,2,Fluminense FC,0,61,13,7,6,3,14,14,0,2024,28.Rodada
+50.848,45.112,SC Internacional,3,54,10,2,3,2,8,26,0,EC Vitória,1,46,7,1,2,6,25,8,4,2024,28.Rodada
+61.927,56.331,Cruzeiro EC,1,56,15,8,3,11,6,7,1,CR Vasco da Gama,1,44,13,6,5,4,6,6,0,2024,28.Rodada
+47.364,24.574,EC Bahia,1,54,21,10,1,9,8,10,0,Criciúma EC,0,46,2,1,5,1,10,8,5,2024,28.Rodada
+78.838,30.022,CR Flamengo,1,70,17,3,1,6,13,12,2,Athletico Paranaense,0,30,7,3,3,1,12,13,3,2024,28.Rodada
+19.225,12.343,Criciúma EC,2,47,17,7,3,7,5,16,1,Atlético Goianiense,0,53,14,9,3,6,16,8,1,2024,29.Rodada
+82.238,30.242,Fluminense FC,1,47,14,6,4,2,16,19,1,Cruzeiro EC,0,53,13,6,4,2,19,16,1,2024,29.Rodada
+60.540,22.204,Grêmio FBPA,3,38,16,5,4,10,9,11,2,Fortaleza EC,1,62,7,2,2,2,10,9,1,2024,29.Rodada
+46.000,34.910,Atlético Mineiro,2,56,14,8,1,2,14,13,1,EC Vitória,2,44,9,5,1,5,12,14,3,2024,29.Rodada
+15.010,9.989,RB Bragantino,0,41,17,5,5,1,13,7,3,SE Palmeiras,0,59,14,6,5,3,7,14,0,2024,29.Rodada
+42.372,22.726,Athletico Paranaense,0,53,26,14,2,8,19,8,0,Botafogo FR,1,47,11,5,3,3,8,20,2,2024,29.Rodada
+47.364,43.433,EC Bahia,0,46,9,5,4,3,11,20,3,CR Flamengo,2,54,13,4,2,7,20,11,4,2024,29.Rodada
+49.205,44.866,SC Corinthians,2,53,15,6,0,9,12,11,3,SC Internacional,2,47,9,2,4,9,11,14,0,2024,29.Rodada
+42.968,11.883,Cuiabá EC,2,22,7,1,3,3,8,12,1,São Paulo FC,0,78,12,7,1,7,11,8,1,2024,29.Rodada
+24.584,18.036,CR Vasco da Gama,1,54,16,6,4,3,13,14,3,EC Juventude,1,46,17,7,2,6,14,13,1,2024,29.Rodada
+32.039,15.497,São Paulo FC,3,48,14,6,3,3,6,8,1,CR Vasco da Gama,0,52,9,4,4,5,8,6,1,2024,30.Rodada
+60.326,23.046,Fortaleza EC,1,46,14,8,4,7,10,9,0,Atlético Mineiro,1,54,18,9,0,3,9,10,3,2024,30.Rodada
+78.838,58.117,CR Flamengo,0,60,20,7,1,5,14,15,3,Fluminense FC,2,40,12,3,5,1,15,15,1,2024,30.Rodada
+49.205,44.399,SC Corinthians,5,61,14,4,4,3,7,9,0,Athletico Paranaense,2,39,22,12,4,8,6,7,2,2024,30.Rodada
+13.000,3.622,Atlético Goianiense,0,60,16,7,0,8,14,17,0,Cuiabá EC,0,40,6,2,4,4,16,15,1,2024,30.Rodada
+76.931,64.727,Botafogo FR,1,73,25,8,2,9,9,12,1,Criciúma EC,1,27,6,3,6,1,11,10,2,2024,30.Rodada
+61.927,34.473,Cruzeiro EC,1,49,11,7,3,5,8,10,2,EC Bahia,1,51,10,6,2,7,9,8,5,2024,30.Rodada
+50.848,48.049,SC Internacional,1,63,18,6,7,3,14,14,1,Grêmio FBPA,0,37,9,1,5,6,14,15,1,2024,30.Rodada
+30.618,25.189,EC Vitória,1,50,11,5,0,5,8,15,2,RB Bragantino,0,50,9,7,2,5,14,8,0,2024,30.Rodada
+23.726,10.102,EC Juventude,3,53,25,13,2,7,18,15,1,SE Palmeiras,5,47,14,2,3,5,14,19,5,2024,30.Rodada
+60.540,36.959,Grêmio FBPA,3,48,11,3,4,4,18,14,0,Atlético Goianiense,1,52,13,4,3,3,13,18,0,2024,31.Rodada
+30.618,29.497,EC Vitória,2,49,12,5,4,7,7,15,2,Fluminense FC,1,51,11,3,1,5,15,7,2,2024,31.Rodada
+78.838,65.700,CR Flamengo,4,74,20,7,1,8,13,8,2,EC Juventude,2,26,5,2,6,1,8,14,1,2024,31.Rodada
+43.713,40.321,SE Palmeiras,2,60,16,5,1,3,15,9,0,Fortaleza EC,2,40,11,6,4,3,9,17,0,2024,31.Rodada
+42.372,35.959,Athletico Paranaense,3,58,19,8,0,7,13,14,0,Cruzeiro EC,0,42,2,2,3,1,14,14,0,2024,31.Rodada
+46.000,27.028,Atlético Mineiro,1,58,7,4,4,3,15,15,2,SC Internacional,3,42,11,3,2,3,14,15,1,2024,31.Rodada
+15.010,7.400,RB Bragantino,0,38,6,2,3,3,17,13,1,Botafogo FR,1,62,19,9,1,6,12,17,3,2024,31.Rodada
+19.225,17.422,Criciúma EC,1,30,10,4,2,6,9,13,0,São Paulo FC,1,70,16,5,2,7,13,10,0,2024,31.Rodada
+42.968,16.680,Cuiabá EC,0,56,13,5,2,5,14,14,1,SC Corinthians,1,44,9,2,5,2,13,16,5,2024,31.Rodada
+24.584,17.213,CR Vasco da Gama,3,48,15,4,5,2,9,11,2,EC Bahia,2,52,12,4,5,4,11,9,0,2024,31.Rodada
+82.238,35.278,Fluminense FC,2,63,18,7,1,8,13,15,4,Grêmio FBPA,2,37,7,2,5,2,13,14,0,2024,32.Rodada
+15.010,4.103,RB Bragantino,0,68,18,12,1,11,11,8,0,Cuiabá EC,0,32,7,5,4,5,8,11,0,2024,32.Rodada
+42.372,40.666,Athletico Paranaense,1,64,25,14,3,9,13,8,2,EC Vitória,2,36,11,4,4,3,7,13,0,2024,32.Rodada
+23.726,7.419,EC Juventude,0,59,17,7,1,5,14,7,2,Fortaleza EC,3,41,11,3,6,3,7,14,4,2024,32.Rodada
+49.205,46.085,SC Corinthians,2,41,6,2,4,2,12,18,1,SE Palmeiras,0,59,17,7,2,9,18,13,4,2024,32.Rodada
+50.848,29.097,SC Internacional,2,69,20,5,4,7,13,15,2,Criciúma EC,0,31,5,1,7,3,14,13,4,2024,32.Rodada
+47.364,29.599,EC Bahia,0,52,24,10,1,10,16,13,0,São Paulo FC,3,48,10,3,6,3,13,16,1,2024,32.Rodada
+46.931,32.007,Botafogo FR,3,64,20,9,3,7,8,13,3,CR Vasco da Gama,0,36,11,5,2,4,12,8,0,2024,32.Rodada
+21.927,20.855,Cruzeiro EC,0,53,15,5,1,7,13,8,1,CR Flamengo,1,47,11,5,5,4,8,13,3,2024,32.Rodada
+13.000,3.791,Atlético Goianiense,1,37,13,6,5,4,13,11,0,Atlético Mineiro,0,63,12,5,2,7,11,13,1,2024,32.Rodada
+50.848,35.877,SC Internacional,2,51,17,6,2,4,10,11,4,Fluminense FC,0,49,9,5,4,4,11,10,0,2024,33.Rodada
+43.713,33.670,SE Palmeiras,1,61,33,11,0,14,9,14,5,Grêmio FBPA,0,39,6,2,14,1,13,9,3,2024,33.Rodada
+,30.973,EC Vitória,1,42,9,3,5,14,10,11,2,SC Corinthians,2,58,13,3,1,4,10,11,0,2024,33.Rodada
+46.931,41.899,Botafogo FR,0,74,28,14,1,8,14,8,5,Cuiabá EC,0,26,4,1,5,1,8,14,0,2024,33.Rodada
+61.927,29.287,Cruzeiro EC,2,63,26,10,6,6,11,13,1,Criciúma EC,1,37,12,5,7,5,13,11,2,2024,33.Rodada
+60.326,45.271,Fortaleza EC,3,40,14,3,3,5,11,13,2,CR Vasco da Gama,0,60,4,2,6,1,12,11,3,2024,33.Rodada
+13.000,2.419,Atlético Goianiense,0,41,10,4,6,7,10,14,1,RB Bragantino,0,59,17,7,4,6,13,11,0,2024,33.Rodada
+23.726,6.091,EC Juventude,2,38,20,10,2,7,8,11,3,EC Bahia,1,62,8,3,6,2,11,9,1,2024,33.Rodada
+72.039,34.777,São Paulo FC,2,78,10,5,2,5,20,5,3,Athletico Paranaense,1,22,9,3,1,6,5,20,2,2024,33.Rodada
+78.838,63.441,CR Flamengo,0,54,25,10,2,7,6,14,0,Atlético Mineiro,0,46,16,6,7,4,13,7,1,2024,33.Rodada
+49.205,46.056,SC Corinthians,2,45,13,4,0,3,14,13,1,Cruzeiro EC,1,55,8,6,6,4,13,15,1,2024,34.Rodada
+15.010,9.017,RB Bragantino,1,43,18,11,1,1,9,16,0,São Paulo FC,1,57,10,4,4,1,14,12,0,2024,34.Rodada
+42.372,42.177,Athletico Paranaense,2,37,11,3,5,6,8,9,1,Atlético Goianiense,0,63,20,7,6,9,8,8,1,2024,34.Rodada
+19.225,12.123,Criciúma EC,0,49,13,8,2,6,18,11,2,EC Vitória,1,51,14,8,2,5,9,18,3,2024,34.Rodada
+47.364,36.445,EC Bahia,1,58,17,9,1,4,14,15,3,SE Palmeiras,2,42,11,2,4,5,14,14,4,2024,34.Rodada
+60.540,40.426,Grêmio FBPA,2,57,11,6,3,5,15,17,1,EC Juventude,2,43,11,4,2,4,17,16,0,2024,34.Rodada
+,12.891,Cuiabá EC,1,37,5,2,5,4,9,6,1,CR Flamengo,2,63,19,8,2,10,6,10,2,2024,34.Rodada
+26.000,0,Atlético Mineiro,0,29,3,2,4,1,11,9,3,Botafogo FR,0,71,27,14,0,11,9,11,0,2024,34.Rodada
+24.584,17.339,CR Vasco da Gama,0,49,12,6,6,8,10,8,5,SC Internacional,1,51,16,5,0,3,8,10,0,2024,34.Rodada
+82.238,37.969,Fluminense FC,2,74,10,2,3,8,11,9,1,Fortaleza EC,2,26,11,4,3,3,8,11,2,2024,34.Rodada
+46.931,35.491,Botafogo FR,1,73,26,8,3,10,7,10,1,EC Vitória,1,27,10,5,9,0,10,7,1,2024,35.Rodada
+13.000,11.216,Atlético Goianiense,0,55,9,4,2,4,13,16,1,SE Palmeiras,1,45,10,6,2,2,15,14,0,2024,35.Rodada
+23.726,6.932,EC Juventude,1,60,19,11,0,6,7,9,2,Cuiabá EC,1,40,7,4,3,5,9,7,1,2024,35.Rodada
+72.039,36.783,São Paulo FC,2,54,13,7,1,7,11,11,0,Atlético Mineiro,2,46,3,0,3,1,9,11,0,2024,35.Rodada
+50.848,41.762,SC Internacional,4,55,16,4,0,8,11,16,1,RB Bragantino,1,45,5,3,3,4,16,12,1,2024,35.Rodada
+47.364,26.307,EC Bahia,1,74,25,12,2,11,12,7,1,Athletico Paranaense,1,26,6,2,7,1,6,13,4,2024,35.Rodada
+49.205,46.083,SC Corinthians,3,59,23,10,1,7,14,8,1,CR Vasco da Gama,1,41,8,3,5,6,7,14,0,2024,35.Rodada
+82.238,41.240,Fluminense FC,0,64,19,10,3,9,13,6,2,Criciúma EC,0,36,10,5,3,4,6,15,2,2024,35.Rodada
+60.326,57.624,Fortaleza EC,0,39,7,4,4,5,14,16,1,CR Flamengo,0,61,16,5,1,5,16,14,1,2024,35.Rodada
+61.927,21.009,Cruzeiro EC,1,61,19,10,3,5,6,16,2,Grêmio FBPA,1,39,9,3,2,1,16,6,2,2024,35.Rodada
+46.000,0,Atlético Mineiro,2,64,21,10,4,9,7,13,0,EC Juventude,3,36,13,4,3,5,13,8,2,2024,36.Rodada
+43.713,31.753,SE Palmeiras,1,55,19,8,4,5,14,9,0,Botafogo FR,3,45,13,2,5,7,8,16,1,2024,36.Rodada
+42.968,2.613,Cuiabá EC,1,44,11,7,1,3,8,9,5,EC Bahia,2,56,12,6,0,4,8,8,1,2024,36.Rodada
+19.225,18.075,Criciúma EC,2,38,12,4,7,3,8,10,1,SC Corinthians,4,62,19,4,2,7,10,8,3,2024,36.Rodada
+24.584,18.270,CR Vasco da Gama,2,61,16,7,3,5,10,10,1,Atlético Goianiense,2,39,12,5,5,3,9,10,3,2024,36.Rodada
+60.540,39.197,Grêmio FBPA,2,39,16,2,1,10,6,11,2,São Paulo FC,1,61,7,3,6,6,11,7,2,2024,36.Rodada
+78.838,56.571,CR Flamengo,3,56,17,5,4,6,12,14,4,SC Internacional,2,44,12,3,7,4,13,12,2,2024,36.Rodada
+30.618,29.090,EC Vitória,2,29,19,4,2,7,10,13,1,Fortaleza EC,0,71,11,2,6,8,12,10,0,2024,36.Rodada
+15.010,6.223,RB Bragantino,1,33,7,4,1,6,14,11,0,Cruzeiro EC,1,67,22,9,1,10,11,14,0,2024,36.Rodada
+42.372,41.375,Athletico Paranaense,1,29,16,10,3,3,10,10,0,Fluminense FC,1,71,15,3,3,8,9,10,2,2024,36.Rodada
+49.205,46.263,SC Corinthians,3,52,18,7,2,7,13,12,3,EC Bahia,0,48,12,7,4,4,12,13,1,2024,37.Rodada
+24.584,17.074,CR Vasco da Gama,2,58,11,6,3,3,11,20,1,Atlético Mineiro,0,42,11,3,2,6,19,13,2,2024,37.Rodada
+30.618,26.842,EC Vitória,1,49,25,10,1,7,10,13,3,Grêmio FBPA,1,51,7,4,4,1,13,10,0,2024,37.Rodada
+72.039,31.442,São Paulo FC,1,69,10,5,5,12,14,9,2,EC Juventude,2,31,13,4,1,2,8,15,0,2024,37.Rodada
+19.225,18.849,Criciúma EC,0,38,16,6,4,7,6,16,1,CR Flamengo,3,62,12,2,4,3,14,6,0,2024,37.Rodada
+50.848,37.628,SC Internacional,0,67,14,6,0,10,12,9,0,Botafogo FR,1,33,2,1,6,1,9,12,5,2024,37.Rodada
+61.927,0,Cruzeiro EC,1,46,9,5,9,7,11,14,1,SE Palmeiras,2,54,31,10,2,6,14,13,0,2024,37.Rodada
+13.000,3.157,Atlético Goianiense,3,55,27,7,3,5,15,13,2,Fortaleza EC,1,45,12,2,5,3,12,16,0,2024,37.Rodada
+82.238,59.730,Fluminense FC,1,59,24,12,3,10,8,14,1,Cuiabá EC,0,41,3,0,5,3,13,9,1,2024,37.Rodada
+42.372,41.626,Athletico Paranaense,1,53,22,6,2,6,15,14,0,RB Bragantino,2,47,13,7,6,5,14,15,1,2024,37.Rodada
