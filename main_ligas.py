@@ -1,8 +1,8 @@
-from Liga import Competicoes
 import pandas as pd
+from Liga import Competicoes
 from Partida import PartidaCatch
 
-comps = [('pl', 'premierleague')]
+comps = [('lbr', 'brasileirao'), ('pl', 'premierleague')]
 
 p_catch = PartidaCatch()
 c = Competicoes()
@@ -10,7 +10,7 @@ c = Competicoes()
 for comp in comps:
     seasons = Competicoes().get_competicoes_temporadas()[comp[0]]
 
-    for ano in range(seasons[0], max(2020, seasons[1] - 1), -1):
+    for ano in range(seasons[0], max(2019, seasons[1] - 1), -1):
         partidas = []
 
         try:

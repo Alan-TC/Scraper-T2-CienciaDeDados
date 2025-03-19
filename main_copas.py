@@ -1,5 +1,5 @@
-from Copa import Competicoes
 import pandas as pd
+from Copa import Competicoes
 from Partida import PartidaCatch
 
 comps = [('cbr', 'copabr'), ('la', 'liberta'), ('cl', 'champions')]

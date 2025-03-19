@@ -32,7 +32,7 @@ class Competicoes:
         
         pageSoup = BeautifulSoup(res.content, 'html.parser')
 
-        rodadas = pageSoup.find_all('div', {"class": "large-6 columns"})
+        rodadas = pageSoup.find_all('div', class_=["large-6 columns", "large-6 columns end"])
 
         for rodada in rodadas:
             rodada_atual = rodada.find_all('div', {"class": "content-box-headline"})[0].text.strip()
